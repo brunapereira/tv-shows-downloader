@@ -39,23 +39,21 @@ class TheTvDb(object):
             print ('some error occurred')
 
     def find_last_episode(self, tv_show_id):
-        headers = {'Authorization': self.token}
-        response = requests.get(f'{self.base_url}/series/{tv_show_id}/episodes', headers=headers)
-
+        response = self.fetch_episodes(tv_show_id)
         last_page = response.json()['links']['last']
-        response = requests.get(f'{self.base_url}/series/{tv_show_id}/episodes/query?page={last_page}', headers=headers)
 
-        last_aired = response.json()['data'][-1]
+        last_aired = self.fetch_episodes(tv_show_id, last_page).json()['data'][-1]
         season = last_aired['airedSeason'] 
         episode = str(last_aired['airedEpisodeNumber']).zfill(2)
 
         return f'S{season}E{episode}'
 
+    def fetch_episodes(self, tv_show_id, page=1):
+        headers = {'Authorization': self.token}
 
-
+        return requests.get(f'{self.base_url}/series/{tv_show_id}/episodes/query?page={page}', headers=headers)
 
 if __name__ == '__main__':
-
     client = TheTvDb()
     client.login()
     client.fetch_favorites_from_user()
