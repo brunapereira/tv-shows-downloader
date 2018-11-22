@@ -7,7 +7,6 @@ from File import File
 API_URL_BASE = 'http://api.thesubdb.com/'
 
 def get_subtitle(video_file):
-    # TODO: Accept multiple extensions
     content = fetch_subtitle(video_file.get_hash())
 
     # TODO: Check if the file already exists

@@ -12,7 +12,7 @@ class File():
         return self.name + self.extension
 
     def move_to(self, root_directory):
-        new_path = root_directory + '/' + self.name + self.extension
+        new_path = root_directory + self.name + self.extension
         os.rename(self.path, new_path)
         return File(new_path)
 

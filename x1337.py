@@ -10,10 +10,9 @@ BASE_URL = 'https://1337x.to'
 BASE_TV_SHOWS_DIR = 'tv-shows/'
 
 def download(tv_show, version):
-    search_string = '%s %s' % (tv_show, version)
-    search_string = search_string.replace(' ', '%20')
+    search_string = '{0} {1}'.format(tv_show, version).replace(' ', '%20')
 
-    uri_search = '/search/' + search_string + '//'
+    uri_search = '/search/{0}//'.format(search_string)
 
     # Search for a tv show
     search_page_object = create_page_object(uri_search)
@@ -33,7 +32,7 @@ def download(tv_show, version):
     # Download Video
     # aria2c.download_at(directory, magnet_link)
 
-    # Move video to correct folder
+    # Move video to root folder
     video_file = move_video(directory)
 
     # Download subtitle
@@ -52,7 +51,7 @@ def create_page_object(uri):
     return BeautifulSoup(html_string, features="html.parser")
 
 def create_directory(tv_show, version):
-    dir_name = BASE_TV_SHOWS_DIR + tv_show + '-' + version
+    dir_name = '{0}{1}-{2}/'.format(BASE_TV_SHOWS_DIR, tv_show, version)
 
     try:
         os.makedirs(dir_name)
