@@ -1,8 +1,8 @@
 import urllib.request
 import os
 import subdb
+import aria2c
 from bs4 import BeautifulSoup
-from external import pyaria2
 
 BASE_URL = 'https://1337x.to'
 BASE_TV_SHOWS_DIR = 'tv-shows/'
@@ -25,13 +25,11 @@ def download(tv_show, version):
     # Extract magnet link
     magnet_link = find_magnet_link(episode_page_object)
 
+    # Create dir
     directory = create_directory(tv_show, version)
 
-    # Add Magnet URL to Aria2 and get GID
-    # gid = pyaria2.PyAria2().addUri([magnet_link], dict(dir=directory))
-
-
-    # TODO: Check for download completition
+    # Download Video
+    aria2c.download_at(directory, magnet_link)
 
     # Download subtitle
     subdb.get_subtitle(directory)
@@ -52,7 +50,7 @@ def create_directory(tv_show, version):
     dir_name = BASE_TV_SHOWS_DIR + tv_show + '-' + version
 
     try:
-        os.makedirs('tv-shows/' + tv_show + '-' + version)
+        os.makedirs(dir_name)
         print("Directory", dir_name, "Created")
     except FileExistsError:
         print("Directory", dir_name,  "already exists")
