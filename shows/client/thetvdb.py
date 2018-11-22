@@ -4,7 +4,6 @@ from prettyconf import config
 
 
 class TheTvDb(object):
-
     def __init__(self):
         self.base_url = 'https://api.thetvdb.com'
         self.api_key = config('TVDB_API_KEY')
@@ -37,6 +36,15 @@ class TheTvDb(object):
             return response.json()['data']['favorites']
         else:
             print ('some error occurred')
+    
+    def get_tv_show_name(self, tv_show_id):
+        headers = {'Authorization': self.token}
+        response = requests.get(f'{self.base_url}/series/{tv_show_id}', headers=headers)
+
+        if (response.status_code == 200):
+            return response.json()['data']['seriesName']
+        else:
+            print ('some error occurred')
 
     def find_last_episode(self, tv_show_id):
         response = self.fetch_episodes(tv_show_id)
@@ -58,3 +66,4 @@ if __name__ == '__main__':
     client.login()
     client.fetch_favorites_from_user()
     client.find_last_episode('73762')
+    client.get_tv_show_name('73762')
