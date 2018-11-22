@@ -1,5 +1,7 @@
 import urllib.request
 import os
+import glob
+from File import File
 import subdb
 import aria2c
 from bs4 import BeautifulSoup
@@ -29,10 +31,13 @@ def download(tv_show, version):
     directory = create_directory(tv_show, version)
 
     # Download Video
-    aria2c.download_at(directory, magnet_link)
+    # aria2c.download_at(directory, magnet_link)
+
+    # Move video to correct folder
+    video_file = move_video(directory)
 
     # Download subtitle
-    subdb.get_subtitle(directory)
+    subdb.get_subtitle(video_file)
 
 def find_uri_to_episode_page(page):
     return page.find('td', { 'class': 'coll-1 name' }).find('a', { 'class': None })['href']
@@ -56,3 +61,10 @@ def create_directory(tv_show, version):
         print("Directory", dir_name,  "already exists")
 
     return dir_name
+
+def move_video(directory):
+    # TODO: Accept multiple extensions
+    for path in glob.iglob(directory + '/**/*.mkv', recursive=True):
+        video_file = File(path)
+    
+    return video_file.move_to(directory)

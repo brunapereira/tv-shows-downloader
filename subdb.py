@@ -6,15 +6,12 @@ from File import File
 
 API_URL_BASE = 'http://api.thesubdb.com/'
 
-def get_subtitle(directory):
+def get_subtitle(video_file):
     # TODO: Accept multiple extensions
-    for path in glob.iglob(directory + '/**/*.mkv', recursive=True):
-        video_file = File(path)
-
     content = fetch_subtitle(video_file.get_hash())
 
     # TODO: Check if the file already exists
-    subtitle_file = open(directory + '/' + video_file.name + '.srt', 'w')
+    subtitle_file = open(video_file.directory + '/' + video_file.name + '.srt', 'w')
     subtitle_file.write(content)
 
 def fetch_subtitle(video_hash):

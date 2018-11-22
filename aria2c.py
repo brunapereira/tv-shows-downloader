@@ -1,19 +1,20 @@
-from external import pyaria2
+from pyaria2 import Aria2RPC
 import time
 
 def download_at(directory, magnet_link):
+    aria2c = Aria2RPC()
     download_status = ''
-    aria2c = pyaria2.PyAria2()
     
     # Add Magnet URL to Aria2 and get GID
-    gid = aria2c.addUri([magnet_link], dict(dir=directory))
+    gid = aria2c.addUri(uris=[magnet_link], options=dict(dir=directory))
     print('Downloading.')
 
+    import ipdb; ipdb.set_trace()
+    aria2c.listNotifications()
+
     while download_status != 'complete':
-        download_status = aria2c.tellStatus(gid, ['status'])['status']
+        download_status = aria2c.tellStatus(gid)['status']
         print('.')
         time.sleep(1)
-
-    print(download_status)
 
     return True
