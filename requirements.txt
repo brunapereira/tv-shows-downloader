@@ -2,3 +2,4 @@ requests
 pyaria2
 bs4
 prettyconf
+redis

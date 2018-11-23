@@ -1,7 +1,7 @@
 import requests
 import json
 from prettyconf import config
-
+from repository.client import redis
 
 class TheTvDb(object):
     def __init__(self):
@@ -28,12 +28,24 @@ class TheTvDb(object):
         else:
             print ('some error occurred')
 
+    def get_info_from_favorites(self):
+        favorites = self.fetch_favorites_from_user()
+
+        for favorite in favorites:
+            last_episode = self.find_last_episode(favorite)
+            name = self.get_tv_show_name(favorite)
+
+            redis.save(favorite, 'last_episode', last_episode)
+            redis.save(favorite, 'name', name)
+
     def fetch_favorites_from_user(self):
         headers = {'Authorization': self.token}
         response = requests.get(f'{self.base_url}/user/favorites', headers=headers)
 
         if (response.status_code == 200):
             return response.json()['data']['favorites']
+        elif (response.status_code == 401):
+            print ('you are not logged in')
         else:
             print ('some error occurred')
     
@@ -60,10 +72,3 @@ class TheTvDb(object):
         headers = {'Authorization': self.token}
 
         return requests.get(f'{self.base_url}/series/{tv_show_id}/episodes/query?page={page}', headers=headers)
-
-if __name__ == '__main__':
-    client = TheTvDb()
-    client.login()
-    client.fetch_favorites_from_user()
-    client.find_last_episode('73762')
-    client.get_tv_show_name('73762')
