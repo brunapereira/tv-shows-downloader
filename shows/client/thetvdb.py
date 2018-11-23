@@ -30,7 +30,7 @@ class TheTvDb(object):
 
         self.handle_response(response)
 
-        self.token = f"Bearer {response.json()['token']}"
+        self.token = 'Bearer %s' % (response.json()['token'])
 
     def fetch_favorites_from_user(self):
         headers = {'Authorization': self.token}
@@ -56,7 +56,7 @@ class TheTvDb(object):
         season = last_aired['airedSeason']
         episode = str(last_aired['airedEpisodeNumber']).zfill(2)
 
-        return f'S{season}E{episode}'
+        return 'S{}E{}'.format(season, episode)
 
     def fetch_episodes(self, tv_show_id, page=1):
         headers = {'Authorization': self.token}
