@@ -1,5 +1,6 @@
 import requests
 import json
+import sys
 from prettyconf import config
 
 
@@ -11,47 +12,48 @@ class TheTvDb(object):
         self.username = config('TVDB_USERNAME')
         self.token = None
 
+    def handle_response(self, response):
+        if response.status_code != 200:
+            print ('some error occurred %s:' % (response.text))
+            sys.exit(1)
+
     def login(self):
         data = {
             'apikey': self.api_key,
             'userkey': self.user_key,
-            'username': self.username
-        }
+            'username': self.username}
 
         headers = {'Content-Type': 'application/json'}
 
-        response = requests.post(f'{self.base_url}/login', data=json.dumps(data), headers=headers)
+        uri = '{}/login'.format(self.base_url)
+        response = requests.post(uri, data=json.dumps(data), headers=headers)
 
-        if (response.status_code == 200):
-            self.token = f"Bearer {response.json()['token']}"
-            print('Login successful')
-        else:
-            print ('some error occurred')
+        self.handle_response(response)
+
+        self.token = f"Bearer {response.json()['token']}"
 
     def fetch_favorites_from_user(self):
         headers = {'Authorization': self.token}
-        response = requests.get(f'{self.base_url}/user/favorites', headers=headers)
+        uri = '{}/user/favorites'.format(self.base_url)
+        response = requests.get(uri, headers=headers)
 
-        if (response.status_code == 200):
-            return response.json()['data']['favorites']
-        else:
-            print ('some error occurred')
-    
+        self.handle_response(response)
+        return response.json()['data']['favorites']
+
     def get_tv_show_name(self, tv_show_id):
         headers = {'Authorization': self.token}
-        response = requests.get(f'{self.base_url}/series/{tv_show_id}', headers=headers)
+        uri = '{}/series/{}'.format(self.base_url, tv_show_id)
+        response = requests.get(uri, headers=headers)
 
-        if (response.status_code == 200):
-            return response.json()['data']['seriesName']
-        else:
-            print ('some error occurred')
+        self.handle_response(response)
+        return response.json()['data']['seriesName']
 
     def find_last_episode(self, tv_show_id):
         response = self.fetch_episodes(tv_show_id)
         last_page = response.json()['links']['last']
 
         last_aired = self.fetch_episodes(tv_show_id, last_page).json()['data'][-1]
-        season = last_aired['airedSeason'] 
+        season = last_aired['airedSeason']
         episode = str(last_aired['airedEpisodeNumber']).zfill(2)
 
         return f'S{season}E{episode}'
@@ -59,7 +61,11 @@ class TheTvDb(object):
     def fetch_episodes(self, tv_show_id, page=1):
         headers = {'Authorization': self.token}
 
-        return requests.get(f'{self.base_url}/series/{tv_show_id}/episodes/query?page={page}', headers=headers)
+        uri = '{}/series/{}/episodes/query?page={}'.format(self.base_url, tv_show_id, page)
+        response = requests.get(uri, headers=headers)
+        self.handle_response(response)
+        return response
+
 
 if __name__ == '__main__':
     client = TheTvDb()
