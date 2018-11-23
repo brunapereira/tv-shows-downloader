@@ -2,6 +2,7 @@ import requests
 import json
 import sys
 from prettyconf import config
+from repository.client import redis
 
 
 class TheTvDb(object):
@@ -31,6 +32,16 @@ class TheTvDb(object):
         self.handle_response(response)
 
         self.token = 'Bearer %s' % (response.json()['token'])
+
+    def get_info_from_favorites(self):
+        favorites = self.fetch_favorites_from_user()
+
+        for favorite in favorites:
+            last_episode = self.find_last_episode(favorite)
+            name = self.get_tv_show_name(favorite)
+
+            redis.save(favorite, 'last_episode', last_episode)
+            redis.save(favorite, 'name', name)
 
     def fetch_favorites_from_user(self):
         headers = {'Authorization': self.token}
