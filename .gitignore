@@ -5,3 +5,4 @@
 __pycache__/
 .venv/
 tv-shows/*
+test/stubs/node_modules/

@@ -1,0 +1,50 @@
+- request:
+    url: /login$
+    method: POST
+    post: '{\n  "apikey": ".*",\n  "userkey": ".*",\n  "username": ".*"\n}'
+  response:
+    headers:
+      content-type: application/json
+    status: 200
+    body: >
+      {
+        "token": "faketoken"
+      }
+
+- request:
+    url: /users/favorites
+    method: GET
+  response:
+    headers:
+      content-type: application/json
+    latency: 2000
+    status: 200
+    body: >
+      {
+        "data": {
+          "favorites": [
+            "73762",
+            "80379"
+          ]
+        }
+      }
+
+- request:
+    url: /series/73762/episodes/query$
+    method: GET
+    query:
+      page: 4
+  response:
+    headers:
+      content-type: application/json
+    status: 200
+    file: './responses/episodes.73762.page4.json'
+
+- request:
+    url: /series/73762/episodes$
+    method: GET
+  response:
+    headers:
+      content-type: application/json
+    status: 200
+    file: './responses/episodes.73762.json'

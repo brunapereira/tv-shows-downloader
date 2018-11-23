@@ -1,0 +1,15 @@
+{
+  "name": "tv-shows-downloader-stubs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "stubby --watch --quiet --data stubby.yml",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "stubby": "^4.0.0"
+  }
+}
