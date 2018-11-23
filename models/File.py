@@ -3,16 +3,12 @@ import os
 
 class File():
     def __init__(self, path):
+        self.directory, self.name_with_extension = path.rsplit('/',1)
         self.path = path
-        self.directory = os.path.splitext(path.rsplit('/',1)[0])[0]
-        self.name = os.path.splitext(path.rsplit('/',1)[1])[0]
-        self.extension = os.path.splitext(path.rsplit('/',1)[1])[1]
-
-    def get_name_with_extension(self):
-        return self.name + self.extension
+        self.name = os.path.splitext(self.name_with_extension)[0]
 
     def move_to(self, root_directory):
-        new_path = root_directory + self.name + self.extension
+        new_path = root_directory + self.name_with_extension
         os.rename(self.path, new_path)
         return File(new_path)
 
@@ -24,4 +20,3 @@ class File():
             f.seek(-readsize, os.SEEK_END)
             data += f.read(readsize)
         return hashlib.md5(data).hexdigest()
-

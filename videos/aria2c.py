@@ -9,8 +9,6 @@ def download_at(directory, magnet_link):
     gid = aria2c.addUri(uris=[magnet_link], options=dict(dir=directory))
     print('Downloading.')
 
-    aria2c.listNotifications()
-
     while download_status != 'complete':
         download_status = aria2c.tellStatus(gid)['status']
         print('.')
