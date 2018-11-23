@@ -1,15 +1,15 @@
 import urllib.request
 import os
 import glob
-from File import File
-import subdb
-import aria2c
 from bs4 import BeautifulSoup
+
+from models.File import File
+from videos import aria2c
 
 BASE_URL = 'https://1337x.to'
 BASE_TV_SHOWS_DIR = 'tv-shows/'
 
-def download(tv_show, version):
+def fetch_video(tv_show, version):
     search_string = '{0} {1}'.format(tv_show, version).replace(' ', '%20')
 
     uri_search = '/search/{0}//'.format(search_string)
@@ -30,13 +30,10 @@ def download(tv_show, version):
     directory = create_directory(tv_show, version)
 
     # Download Video
-    # aria2c.download_at(directory, magnet_link)
+    aria2c.download_at(directory, magnet_link)
 
     # Move video to root folder
-    video_file = move_video(directory)
-
-    # Download subtitle
-    subdb.get_subtitle(video_file)
+    return move_video(directory)
 
 def find_uri_to_episode_page(page):
     return page.find('td', { 'class': 'coll-1 name' }).find('a', { 'class': None })['href']

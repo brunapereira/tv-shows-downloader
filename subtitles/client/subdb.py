@@ -2,18 +2,18 @@ import glob
 import os
 import requests
 
-from File import File
+from models import File
 
 API_URL_BASE = 'http://api.thesubdb.com/'
 
-def get_subtitle(video_file):
-    content = fetch_subtitle(video_file.get_hash())
+def fetch_subtitle(video_file):
+    content = fetch(video_file.get_hash())
 
     # TODO: Check if the file already exists
     subtitle_file = open(video_file.directory + '/' + video_file.name + '.srt', 'w')
     subtitle_file.write(content)
 
-def fetch_subtitle(video_hash):
+def fetch(video_hash):
     url = '{0}?action=download&hash={1}&language=pt,en'.format(API_URL_BASE, video_hash)
 
     headers = requests.utils.default_headers()
