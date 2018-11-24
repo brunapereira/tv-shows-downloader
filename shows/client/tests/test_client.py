@@ -4,6 +4,7 @@ import pytest
 
 from shows.client.thetvdb import TheTvDb
 
+
 @pytest.fixture()
 def client():
     return TheTvDb()
