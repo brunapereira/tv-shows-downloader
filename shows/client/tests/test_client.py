@@ -34,3 +34,10 @@ def test_get_tv_show_name(client):
     client.login()
     response = client.get_tv_show_name(73762)
     assert len(response) > 0
+
+
+@vcr.use_cassette('shows/client/tests/fixtures/thetvdb/vcr/find_last_episode.yml')
+def test_find_last_episode(client):
+    client.login()
+    response = client.get_tv_show_name(73762)
+    assert response == "Grey's Anatomy"
