@@ -13,7 +13,7 @@ class TheTvDb(object):
         self.api_key = config('TVDB_API_KEY')
         self.user_key = config('TVDB_USER_KEY')
         self.username = config('TVDB_USERNAME')
-        self.token = None
+        self.token = self.login()
 
     def handle_response(self, response):
         if response.status_code != 200:
@@ -33,9 +33,9 @@ class TheTvDb(object):
 
         self.handle_response(response)
 
-        self.token = 'Bearer %s' % (response.json()['token'])
+        return 'Bearer %s' % (response.json()['token'])
 
-    def get_info_from_favorites(self):
+    def fetch_favorite_shows(self):
         favorites = self.fetch_favorites_from_user()
 
         for favorite in favorites:
