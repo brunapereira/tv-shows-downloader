@@ -3,3 +3,4 @@ pyaria2
 bs4
 prettyconf
 redis
+python-dateutil
