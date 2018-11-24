@@ -20,3 +20,10 @@ def test_login(client):
 def test_get_info_from_favorites(client):
     client.login()
     assert client.get_info_from_favorites() is None
+
+
+@vcr.use_cassette('shows/client/tests/fixtures/thetvdb/vcr/fetch_favorites.yml')
+def test_fetch_favorites_from_user(client):
+    client.login()
+    response = client.fetch_favorites_from_user()
+    assert len(response) > 0
