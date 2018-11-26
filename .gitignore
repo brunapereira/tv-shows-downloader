@@ -8,3 +8,4 @@ tv-shows/*
 test/stubs/node_modules/
 tags
 .ropeproject/*
+tv-shows-downloader.log

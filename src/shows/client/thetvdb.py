@@ -2,6 +2,8 @@ import requests
 import json
 import sys
 from prettyconf import config
+from dateutil import parser
+from datetime import datetime
 from repository.client import redis
 
 
@@ -11,7 +13,7 @@ class TheTvDb(object):
         self.api_key = config('TVDB_API_KEY')
         self.user_key = config('TVDB_USER_KEY')
         self.username = config('TVDB_USERNAME')
-        self.token = None
+        self.token = self.login()
 
     def handle_response(self, response):
         if response.status_code != 200:
@@ -31,9 +33,9 @@ class TheTvDb(object):
 
         self.handle_response(response)
 
-        self.token = 'Bearer %s' % (response.json()['token'])
+        return 'Bearer %s' % (response.json()['token'])
 
-    def get_info_from_favorites(self):
+    def fetch_favorite_shows(self):
         favorites = self.fetch_favorites_from_user()
 
         for favorite in favorites:
@@ -60,14 +62,27 @@ class TheTvDb(object):
         return response.json()['data']['seriesName']
 
     def find_last_episode(self, tv_show_id):
-        response = self.fetch_episodes(tv_show_id)
-        last_page = response.json()['links']['last']
+        episodes = self.fetch_episodes(tv_show_id)
+        last_page = episodes.json()['links']['last']
+        last_episodes = self.fetch_episodes(tv_show_id, last_page).json()['data']
 
-        last_aired = self.fetch_episodes(tv_show_id, last_page).json()['data'][-1]
-        season = last_aired['airedSeason']
-        episode = str(last_aired['airedEpisodeNumber']).zfill(2)
+        last_released = self.find_last_released_episode(last_episodes)
+
+        season = str(last_released['airedSeason']).zfill(2)
+        episode = str(last_released['airedEpisodeNumber']).zfill(2)
 
         return 'S{}E{}'.format(season, episode)
+
+    def find_last_released_episode(self, episodes):
+        current_day = datetime.now()
+
+        for episode in episodes:
+            first_aired = parser.parse(episode['firstAired'])
+
+            if ((current_day - first_aired).days >= 2):
+                return episode
+
+
 
     def fetch_episodes(self, tv_show_id, page=1):
         headers = {'Authorization': self.token}

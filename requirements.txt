@@ -5,3 +5,4 @@ prettyconf
 pytest
 redis
 vcrpy
+python-dateutil

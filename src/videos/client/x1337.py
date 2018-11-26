@@ -59,8 +59,12 @@ def create_directory(tv_show, version):
     return dir_name
 
 def move_video(directory):
-    # TODO: Accept multiple extensions
-    for path in glob.iglob(directory + '/**/*.mkv', recursive=True):
-        video_file = File(path)
+    directories = [directory + '/**/*.' + extension for extension in ['mkv', 'mp4', 'avi']]
+    paths = []
+
+    for dir_with_extension in directories:
+        paths.extend(glob.glob(dir_with_extension, recursive=True))
+
+    video_file = File(paths[-1])
     
     return video_file.move_to(directory)
