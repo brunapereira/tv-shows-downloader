@@ -75,14 +75,13 @@ class TheTvDb(object):
 
     def find_last_released_episode(self, episodes):
         current_day = datetime.now()
+        episodes_sorted_by_date = sorted(episodes, key=lambda x: x['firstAired'], reverse=True)
 
-        for episode in episodes:
+        for episode in episodes_sorted_by_date:
             first_aired = parser.parse(episode['firstAired'])
 
             if ((current_day - first_aired).days >= 2):
                 return episode
-
-
 
     def fetch_episodes(self, tv_show_id, page=1):
         headers = {'Authorization': self.token}
@@ -91,11 +90,3 @@ class TheTvDb(object):
         response = requests.get(uri, headers=headers)
         self.handle_response(response)
         return response
-
-
-if __name__ == '__main__':
-    client = TheTvDb()
-    client.login()
-    client.fetch_favorites_from_user()
-    client.find_last_episode('73762')
-    client.get_tv_show_name('73762')

@@ -17,5 +17,5 @@ def download_at(directory, magnet_link):
 def wait_for_download(gid):
     status = ''
     while status != 'complete':
-        video_status = aria2c.tellStatus(gid)['status']
+        status = aria2c.tellStatus(gid)['status']
         time.sleep(1)
