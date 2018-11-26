@@ -59,7 +59,7 @@ def create_directory(tv_show, version):
     return dir_name
 
 def move_video(directory):
-    directories = [directory + '/**/*.' + extension for extension in ['mkv', 'mp4']]
+    directories = [directory + '/**/*.' + extension for extension in ['mkv', 'mp4', 'avi']]
     paths = []
 
     for dir_with_extension in directories:
