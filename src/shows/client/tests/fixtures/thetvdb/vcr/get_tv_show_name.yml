@@ -1,0 +1,79 @@
+interactions:
+- request:
+    body: '{"apikey": "BGWAOI6JB80NKG01", "userkey": "4FHF2DCI5WWYQ3XB", "username":
+      "ppbruna2f2o"}'
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      Content-Length: ['88']
+      Content-Type: [application/json]
+      User-Agent: [python-requests/2.20.1]
+    method: POST
+    uri: https://api.thetvdb.com/login
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAxTO27ZyQAAA4Hfp3l4OFfPfFWEUEkI3LecZxzBh7Jf/136Bb32/O9LXebf7t8up
+        gRItxTY2XH+DnIXhBLvHIZXhEdaf8Ckb4CenRpPrJ2xXF85SzM3cSs5W4ATbpoZVjzM9IimP5kww
+        yUsDQtKucxQ8mvQPawGNg6yIA5WFVb9anrOZlU9Nr6Q32eBS/knjwMF25a+W4gu2vOAstJq0PaAk
+        8P9iS6oZNAsOyGwjmlAD/JCv7YLsdGlVEYvnqup4Nh3E5XGePAQCfr3z1wgBNSKDxVTDe/24zzFv
+        5Oc0N9tLvQTA1pSC1I81LH3U3hujjTOB86XkBhmzyPfES7ZMGG+zywB15ly2WvWpJ69TOdgZYJwN
+        wLc4CrKWB+D5Gvx9DjBTnS0N7m237a7MUpMVfd9qnJrTUVj0SZoy8XHF65wXo7xeqLSJY370zifP
+        UUCvRhKaJM4slCa8iQnrnfZiaGpsw31ah0f1x1y6Q/6VTfBtXmN5tcIy7mGiko7D8zp2pKOCOlSL
+        G8yG6GjNESV3lt0WtVje1DMMgDHxGf14g6DNEBqQJOrdf2U7p+t6mbkUOhXEp6VZpLsHKtUCAAAA
+        //8DAC/ypXUYAgAA
+    headers:
+      CF-RAY: [47fdf6d81e154cae-GRU]
+      Connection: [keep-alive]
+      Content-Encoding: [gzip]
+      Content-Type: [application/json; charset=utf-8]
+      Date: ['Mon, 26 Nov 2018 17:09:42 GMT']
+      Expect-CT: ['max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"']
+      Server: [cloudflare]
+      Set-Cookie: ['__cfduid=d209e9ba742e926c4657465de671e41511543252181; expires=Tue,
+          26-Nov-19 17:09:41 GMT; path=/; domain=.thetvdb.com; HttpOnly']
+      Transfer-Encoding: [chunked]
+      Vary: [Accept-Language]
+      X-Powered-By: [Thundar!]
+      X-Thetvdb-Api-Version: [2.2.0]
+    status: {code: 200, message: OK}
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Authorization: [Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NDMzMzg1ODEsImlkIjoidHYtc2hvd3MtZG93bmxvYWRlciIsIm9yaWdfaWF0IjoxNTQzMjUyMTgxLCJ1c2VyaWQiOjUxNDU3OCwidXNlcm5hbWUiOiJwcGJydW5hMmYybyJ9.gstRIvsTvXEzbvi8P0rDCFIbWhZVgCwnDHAZU-QnboZQE1LVMVrUVkhbJU-jcgQVZ6JIo9y3GnVOKC4O--h3SzaNLksjt3O9FdjyFV3vYv4AoIAyVl2IFL5TsdF6fTPlZmKrfq9SS7qb0ihz4DXJMqqCTbWPdA8nWhikiByeyjYZ1lv87YKenPKOiV5gGDdvf9BrO5Ziko-RUrDA8j4Wh9us_S4d6wrcXOfcqAjLIcSrgRwP4bW4q9DzcI-4k-dgVmpDjtJCIrbXXkgXEk4y-QUAv0lI5j0dHGmmVJQ7ArDh_zVMrxFTcPrMO-p9jPojygC2vHvHb_5aUoEA4mphwg]
+      Connection: [keep-alive]
+      User-Agent: [python-requests/2.20.1]
+    method: GET
+    uri: https://api.thetvdb.com/series/73762
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA0xSy27bMBD8FWIvbQHalfWIU94cByh66AOJ0x6KHjbmSt5WIoVdyoEb5N8LqjGS
+        Gzk7HM4M+QgeE4J7BPbg1tX6orSgJEz6BQcCBx+FTm/UbAKmOJzAAvaMSgru5zx7Gf2ycI8hkICD
+        TnA88B7797PmoquK5e+xg7P4Jw8O8i5hmhQcbGNIHCYOmdOyaNqwUGaVRdEsimpRrsFCoPQQ5Q84
+        2Fxtzdu723cv4FlTppB49l43YKGjIJTdXgsOCBZu4oBhT2DhNuKYbccjyZHpIcsan2lmTyGRkDcx
+        mHQgM5JoDNgbDN6MEltS5Rno+UhqYmtaPpLRSbqc23A+H3TmpwOxGJ3GfI1G0SVY6FHT3egx5ZSr
+        pi4/FBd1rh9Z9BpPX9sfRDnp7jCJepy7Z9Hd/2yXrijMt885L6Zcm4Pd98WqBgs8+Pu5jJSKelU1
+        6wos/MWx5HTuCL2n18urE7gw9b0F5UQ3z4qXy/I1sI1TSODKprCg/dTN70wnXeDzD3h6+gcAAP//
+        AwAJDZgRUAIAAA==
+    headers:
+      CF-RAY: [47fdf6de6c294b9f-GRU]
+      Cache-Control: ['private, max-age=600']
+      Connection: [keep-alive]
+      Content-Encoding: [gzip]
+      Content-Type: [application/json; charset=utf-8]
+      Date: ['Mon, 26 Nov 2018 17:09:43 GMT']
+      Expect-CT: ['max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"']
+      Last-Modified: ['Thu, 22 Nov 2018 17:07:42 GMT']
+      Server: [cloudflare]
+      Set-Cookie: ['__cfduid=da7a1a02854ea5a4289225537026fee5c1543252182; expires=Tue,
+          26-Nov-19 17:09:42 GMT; path=/; domain=.thetvdb.com; HttpOnly']
+      Transfer-Encoding: [chunked]
+      Vary: [Accept-Language]
+      X-Powered-By: [Thundar!]
+      X-Thetvdb-Api-Version: [2.2.0]
+    status: {code: 200, message: OK}
+version: 1

@@ -2,5 +2,7 @@ requests
 pyaria2
 bs4
 prettyconf
+pytest
 redis
+vcrpy
 python-dateutil
