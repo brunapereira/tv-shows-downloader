@@ -20,6 +20,8 @@ class TvShowsDownloader():
             datefmt="%Y-%m-%d %H:%M:%S")
 
     def run(self):
+        aria2c.start()
+
         # Save shows in DB
         TheTvDb().fetch_favorite_shows()
 

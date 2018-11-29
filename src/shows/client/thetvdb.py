@@ -6,7 +6,6 @@ from dateutil import parser
 from datetime import datetime
 from repository.client import redis
 
-
 class TheTvDb(object):
     def __init__(self):
         self.base_url = 'https://api.thetvdb.com'
