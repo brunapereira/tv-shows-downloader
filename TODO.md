@@ -6,3 +6,6 @@
 [ ] Remove TV shows (remove from favorites does not erase information on redis)
 [ ] Set timeout when torrent is not downloaded
 [ ] Change folder structure to tv-show-name/SXXEXX
+[ ] Functional Tests
+[ ] CI
+[ ] Publish
