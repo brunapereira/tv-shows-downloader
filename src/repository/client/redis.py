@@ -1,14 +1,22 @@
 from redis import Redis
+
 from models.TvShow import TvShow
+from prettyconf import config
+
+host = config('REDIS_HOST')
+port = config('REDIS_PORT')
+db = config('REDIS_DB', cast=int)
+
 
 def save(key, value, number):
-    r = Redis(host='localhost', port=6379, db=0)
+    r = Redis(host=host, port=port, db=db)
     r.hset(key, value, number)
 
+
 def get_all_tv_shows():
-    r = Redis(host='localhost', port=6379, db=0, charset="utf-8", decode_responses=True)
+    r = Redis(host=host, port=port, db=db)
     tv_shows = []
-    
+
     for key in r.scan_iter():
         name = r.hget(key, 'name')
         episode = r.hget(key, 'last_episode')
