@@ -1,0 +1,3205 @@
+1
+00:00:08,547 --> 00:00:12,111
+<i>Como cirurgiões,
+contamos com ciclos.</i>
+
+2
+00:00:13,166 --> 00:00:14,523
+<i>Batimentos cardíacos.</i>
+
+3
+00:00:14,704 --> 00:00:16,301
+<i>Regeneração celular.</i>
+
+4
+00:00:16,812 --> 00:00:18,238
+<i>Ritmos circadianos.</i>
+
+5
+00:00:19,954 --> 00:00:23,254
+<i>Nós sabemos que algo está errado
+quando o ciclo está quebrado.</i>
+
+6
+00:00:23,279 --> 00:00:24,903
+<i>Nosso dever é consertá-lo.</i>
+
+7
+00:00:25,692 --> 00:00:27,951
+<i>Para forçar as engrenagens
+de volta à linha.</i>
+
+8
+00:00:29,888 --> 00:00:31,849
+Desculpe, senhor!
+Bom dia, senhor!
+
+9
+00:00:33,143 --> 00:00:36,831
+<i>Mas essa interrupção também pode
+ser útil, como um aviso.</i>
+
+10
+00:00:39,189 --> 00:00:40,549
+<font color=#00ff1e>SeuSeriadoSubs Apresenta:</font>
+
+11
+00:00:40,574 --> 00:00:41,816
+<font color=#00ff1e>Grey's Anatomy 14x05
+Danger Zone</font>
+
+12
+00:00:41,841 --> 00:00:45,221
+<font color=#00ff1e>Tradução: Vandressa | Botelho | Japa
+Valen | Namiffya | IsadoraT | Danny| Aninha | </font>
+
+13
+00:00:45,246 --> 00:00:46,738
+<font color=#00ff1e>Revisão: Jesy
+JuBione | Jess</font>
+
+14
+00:00:46,763 --> 00:00:48,517
+Beth, por favor. Eu sei.
+
+15
+00:00:49,160 --> 00:00:51,030
+Sim, minha licença
+foi cancelada.
+
+16
+00:00:51,197 --> 00:00:54,070
+Não chore. Irei te
+recompensar por isso, prometo.
+
+17
+00:00:54,095 --> 00:00:55,459
+Ela põe tanta pressão, que os
+
+18
+00:00:55,484 --> 00:00:57,108
+testículos dele estão
+prestes a explodir.
+
+19
+00:00:57,210 --> 00:00:58,258
+Como você está aguentando?
+
+20
+00:00:58,283 --> 00:00:59,981
+Considerando que hoje
+será decidido
+
+21
+00:01:00,006 --> 00:01:01,622
+todo o meu futuro militar?
+Médio.
+
+22
+00:01:01,647 --> 00:01:02,956
+Você já está garantida.
+
+23
+00:01:02,981 --> 00:01:05,940
+Prefiro focar na patética
+vida amorosa do meu irmão.
+
+24
+00:01:06,136 --> 00:01:08,959
+-Foi uma conversa divertida.
+-Como estão as coisas em casa?
+
+25
+00:01:08,984 --> 00:01:10,951
+Vamos nos concentrar
+no que precisa ser carregado.
+
+26
+00:01:10,976 --> 00:01:12,411
+Precisamos estar
+em Fallujah às 7h.
+
+27
+00:01:12,436 --> 00:01:14,164
+Gostaria de estar
+menos tensa até às 7h.
+
+28
+00:01:14,197 --> 00:01:16,092
+Certo. Guarde isso.
+Coronel está chegando.
+
+29
+00:01:16,117 --> 00:01:17,222
+Onde está o Riggs?
+
+30
+00:01:17,640 --> 00:01:20,481
+Ele estava de guarda na
+noite passada. Eu pego ele.
+
+31
+00:01:24,604 --> 00:01:25,668
+Owen.
+
+32
+00:01:26,121 --> 00:01:27,208
+Owen.
+
+33
+00:01:28,319 --> 00:01:29,396
+Owen!
+
+34
+00:01:30,038 --> 00:01:31,078
+Você está bem?
+
+35
+00:01:31,745 --> 00:01:33,626
+Sim, estou bem.
+
+36
+00:01:37,527 --> 00:01:39,795
+Isso não é um adeus.
+
+37
+00:01:41,483 --> 00:01:42,880
+Los Angeles fica a duas horas,
+
+38
+00:01:42,905 --> 00:01:45,736
+você pode vê-la
+sempre que quiser.
+
+39
+00:01:45,761 --> 00:01:46,831
+Sim.
+
+40
+00:01:50,299 --> 00:01:52,108
+Que tal eu preparar
+um jantar esta noite?
+
+41
+00:01:54,281 --> 00:01:56,312
+Isso seria ótimo.
+
+42
+00:02:02,040 --> 00:02:03,457
+Vou pegar a estrada agora.
+
+43
+00:02:03,505 --> 00:02:04,988
+Quanto tempo até chegar aqui?
+
+44
+00:02:05,013 --> 00:02:06,615
+É uma longa viagem.
+
+45
+00:02:06,640 --> 00:02:09,448
+Se você dirigir mais rápido
+vai chegar mais cedo?
+
+46
+00:02:09,710 --> 00:02:11,193
+Ajude Nathan a preparar tudo,
+
+47
+00:02:11,228 --> 00:02:12,900
+e você nem vai
+notar a demora.
+
+48
+00:02:14,868 --> 00:02:16,749
+-Duvido.
+-Beijos, meu garoto.
+
+49
+00:02:16,774 --> 00:02:18,360
+Você pode passar para o Nate?
+
+50
+00:02:21,190 --> 00:02:22,247
+Obrigado, amigo.
+
+51
+00:02:22,571 --> 00:02:24,269
+-Querida, como está?
+-Como ele está indo?
+
+52
+00:02:24,499 --> 00:02:26,575
+Isso tem que ser totalmente
+impressionante para ele.
+
+53
+00:02:26,610 --> 00:02:28,584
+Estamos nos divertindo.
+
+54
+00:02:28,609 --> 00:02:30,146
+E você conseguiu
+o ventilador, certo?
+
+55
+00:02:30,171 --> 00:02:31,953
+Ele não consegue dormir
+sem o seu ventilador.
+
+56
+00:02:32,084 --> 00:02:33,695
+Ventilador...
+
+57
+00:02:35,306 --> 00:02:37,139
+Eu não tenho certeza se...
+
+58
+00:02:37,671 --> 00:02:40,066
+Sim, nós conseguimos.
+
+59
+00:02:40,416 --> 00:02:42,168
+-Certo.
+-Agora só precisamos...
+
+60
+00:02:42,287 --> 00:02:43,792
+descobrir como montar.
+
+61
+00:02:48,041 --> 00:02:49,078
+O que foi isso?
+
+62
+00:02:50,848 --> 00:02:53,975
+Eu não sei. Eu não ouvi nada.
+Você ouviu alguma coisa, Farouk?
+
+63
+00:02:54,070 --> 00:02:55,435
+A porta caindo.
+
+64
+00:02:55,967 --> 00:02:57,994
+Não, ele não ouviu nada também.
+
+65
+00:03:04,327 --> 00:03:05,748
+Entrando.
+
+66
+00:03:10,267 --> 00:03:12,277
+Você vai me matar um dia desses.
+
+67
+00:03:12,302 --> 00:03:13,665
+Você adora.
+
+68
+00:03:17,291 --> 00:03:18,642
+Então, terminamos de brigar?
+
+69
+00:03:18,691 --> 00:03:19,744
+Você me diz.
+
+70
+00:03:22,686 --> 00:03:23,940
+Vem aqui.
+
+71
+00:03:28,485 --> 00:03:29,738
+Vamos para Fallujah.
+
+72
+00:03:29,763 --> 00:03:31,207
+Estamos indo para Fallujah.
+
+73
+00:03:31,700 --> 00:03:33,787
+Eu prefiro a segurança
+de Bagdá...
+
+74
+00:03:33,945 --> 00:03:35,196
+e essa cama.
+
+75
+00:03:36,117 --> 00:03:38,982
+Não posso me atrasar. Não hoje.
+
+76
+00:03:39,165 --> 00:03:40,514
+Tudo bem.
+
+77
+00:03:42,348 --> 00:03:44,220
+O strack? O strap? Strack?
+
+78
+00:03:44,254 --> 00:03:46,589
+Strat! Como na estratificação.
+
+79
+00:03:46,623 --> 00:03:48,995
+Como se eu não fosse conseguir
+o número um.
+
+80
+00:03:49,020 --> 00:03:51,652
+Eu posso dar um beijo
+rápido de despedida, então...
+
+81
+00:04:03,179 --> 00:04:04,937
+Não era para você
+encontrar isso.
+
+82
+00:04:07,596 --> 00:04:11,611
+Eu sei que não é exatamente
+um anel, mas como me lembro,
+
+83
+00:04:12,048 --> 00:04:14,452
+você perdeu seu anel na pia
+cirúrgica, então...
+
+84
+00:04:14,477 --> 00:04:15,609
+Não é um anel?
+
+85
+00:04:17,426 --> 00:04:20,256
+Não se atreva a fazer isso,
+a não ser que esteja mesmo.
+
+86
+00:04:21,124 --> 00:04:22,960
+Meu Deus.
+Você está fazendo isso.
+
+87
+00:04:23,232 --> 00:04:24,856
+-Megan Eloise Hunt, você...
+-Sim!
+
+88
+00:04:27,293 --> 00:04:28,639
+Sim.
+
+89
+00:04:32,059 --> 00:04:33,210
+Vamos.
+
+90
+00:04:35,503 --> 00:04:37,519
+Vamos lá! Por que a demora?
+Vamos.
+
+91
+00:04:37,726 --> 00:04:39,008
+Eu disse <i>sim.</i>
+
+92
+00:04:39,033 --> 00:04:40,075
+O quê?
+
+93
+00:04:40,100 --> 00:04:41,901
+E eu pedi em casamento.
+
+94
+00:04:42,823 --> 00:04:44,902
+-Parabéns!
+-Estava na hora.
+
+95
+00:04:46,698 --> 00:04:48,381
+Esperem. Olhem. Olhem, olhem.
+
+96
+00:04:48,889 --> 00:04:50,809
+Um colar de noivado?
+
+97
+00:04:52,532 --> 00:04:53,849
+Isso é interessante.
+
+98
+00:04:53,874 --> 00:04:57,096
+Sim, ela perde tudo que não
+está amarrado nela, então...
+
+99
+00:05:16,921 --> 00:05:19,310
+Malibu é muito longe
+e é muito esquisito.
+
+100
+00:05:19,335 --> 00:05:21,738
+Você vai odiar.
+E Seattle tem praias.
+
+101
+00:05:21,763 --> 00:05:23,561
+Praias congelantes.
+Não é a mesma coisa.
+
+102
+00:05:24,346 --> 00:05:26,423
+-Nathan já achou um emprego?
+-Ele vai.
+
+103
+00:05:26,550 --> 00:05:29,235
+E se não, sei que eu poderia
+achar algum trabalho com cavalo.
+
+104
+00:05:29,394 --> 00:05:31,079
+-Megan.
+-Virei para casa no natal.
+
+105
+00:05:31,104 --> 00:05:32,754
+E você vai me visitar muito,
+
+106
+00:05:32,779 --> 00:05:35,278
+o que vai ser bom para
+você porque, você sabe...
+
+107
+00:05:35,667 --> 00:05:36,712
+o sol.
+
+108
+00:05:41,211 --> 00:05:42,705
+Vou sentir sua falta, Eeyore.
+
+109
+00:05:44,188 --> 00:05:45,248
+Venha aqui.
+
+110
+00:05:48,406 --> 00:05:49,470
+Certo.
+
+111
+00:05:52,055 --> 00:05:53,133
+Tchau.
+
+112
+00:05:56,450 --> 00:05:58,006
+Escolta do Coronel entrando.
+
+113
+00:05:58,031 --> 00:06:00,287
+Certo cavalheiros.
+Queixo erguido, costas retas.
+
+114
+00:06:00,321 --> 00:06:02,338
+Dignidade, não negligência.
+
+115
+00:06:02,363 --> 00:06:03,759
+Estou falando com você, Sargento.
+
+116
+00:06:03,784 --> 00:06:05,625
+Sim, senhor, Major
+Diamond, senhor.
+
+117
+00:06:06,537 --> 00:06:07,910
+Eu só não quero
+ficar por último.
+
+118
+00:06:07,935 --> 00:06:09,896
+Tubs falhou no teste.
+Ele é o último.
+
+119
+00:06:09,921 --> 00:06:11,575
+Estamos tentando o segundo lugar.
+
+120
+00:06:11,600 --> 00:06:12,907
+Você conhece a número
+um do Hunt.
+
+121
+00:06:12,932 --> 00:06:14,615
+O melhor será o primeiro,
+então está certo.
+
+122
+00:06:14,640 --> 00:06:16,020
+Queria ter um irmão Comandante.
+
+123
+00:06:16,045 --> 00:06:18,337
+Sua mãe poderia ser Comandante
+que você chegaria atrasado.
+
+124
+00:06:20,208 --> 00:06:21,677
+Atenção.
+
+125
+00:06:33,106 --> 00:06:34,148
+À vontade.
+
+126
+00:06:36,005 --> 00:06:37,513
+Excelente trabalho, Major Hunt.
+
+127
+00:06:37,790 --> 00:06:39,314
+Antes de começar esse tour,
+
+128
+00:06:39,370 --> 00:06:41,612
+vamos chegar ao que todos
+realmente querem saber...
+
+129
+00:06:41,812 --> 00:06:42,947
+minha classificação.
+
+130
+00:06:42,972 --> 00:06:44,399
+Foi uma decisão difícil,
+
+131
+00:06:44,463 --> 00:06:47,551
+mas com aplausos, se junte a mim
+Tenente John Matthews.
+
+132
+00:06:56,404 --> 00:06:59,021
+<i>Talão 1 para Sparrow. Temos uma
+emergência chegando. Copiado?</i>
+
+133
+00:06:59,046 --> 00:07:00,134
+Talão 1, copiado.
+
+134
+00:07:00,166 --> 00:07:02,427
+<i>Navio escondido da Marinha
+reportou dois atiradores.</i>
+
+135
+00:07:02,452 --> 00:07:04,656
+<i>Temos quatro mortos
+e vinte feridos à caminho.</i>
+
+136
+00:07:04,691 --> 00:07:05,879
+Copiado. Vamos estar prontos.
+
+137
+00:07:05,904 --> 00:07:09,421
+Todos os cirurgiões no convés.
+Suprimentos de carga. Dispensar.
+
+138
+00:07:21,568 --> 00:07:23,435
+-O que você está fazendo?
+-Estou indo com você.
+
+139
+00:07:23,878 --> 00:07:24,911
+O quê?
+
+140
+00:07:24,936 --> 00:07:26,170
+Viajar de carro.
+
+141
+00:07:26,792 --> 00:07:27,935
+Está falando sério?
+
+142
+00:07:27,960 --> 00:07:30,022
+Você disse que queria
+vencer o trânsito.
+
+143
+00:07:31,117 --> 00:07:32,680
+O que está esperando? Dirija.
+
+144
+00:07:40,958 --> 00:07:43,418
+Tem certeza? Posso
+te jogar na esquina.
+
+145
+00:07:43,443 --> 00:07:45,624
+-Cala boca. Amo viajar de carro.
+-Desde quando?
+
+146
+00:07:45,649 --> 00:07:47,853
+Desde que éramos crianças.
+Viagens com mamãe e papai.
+
+147
+00:07:47,932 --> 00:07:49,448
+Você odiava aquelas viagens.
+
+148
+00:07:49,559 --> 00:07:51,010
+Nós brigávamos tanto
+
+149
+00:07:51,035 --> 00:07:53,360
+que mamãe e papai ameaçava
+nos deixar no posto de gasolina.
+
+150
+00:07:53,385 --> 00:07:55,950
+Felizmente, somos adultos agora.
+Como mexe nesse som?
+
+151
+00:07:55,975 --> 00:07:58,672
+Estou dizendo,
+não preciso de uma babá.
+
+152
+00:07:58,697 --> 00:08:00,576
+Não sou babá, sou um copiloto.
+
+153
+00:08:00,601 --> 00:08:02,971
+Para assegurar que não durma,
+deslize em um penhasco
+
+154
+00:08:02,996 --> 00:08:04,028
+para uma morte ardente.
+
+155
+00:08:04,053 --> 00:08:06,186
+Vamos direto. Sem desvios.
+
+156
+00:08:06,211 --> 00:08:08,939
+Qualquer coisa que você diga.
+Apenas indo a passeio.
+
+157
+00:08:13,089 --> 00:08:14,174
+Lacerações superficiais.
+
+158
+00:08:14,199 --> 00:08:15,967
+Olhe aquela enfermeira
+para fazer curativo.
+
+159
+00:08:15,992 --> 00:08:18,039
+Matthews é o melhor?
+Que diabos aconteceu?
+
+160
+00:08:18,040 --> 00:08:19,936
+-Coronel tem a palavra final.
+-Você tentou?
+
+161
+00:08:19,961 --> 00:08:21,284
+Você disse que fui CGO do ano?
+
+162
+00:08:21,309 --> 00:08:23,904
+Claro! Você sabe como
+é político essas coisas.
+
+163
+00:08:23,939 --> 00:08:26,101
+Nunca vou conseguir o
+treinamento de cirurgiã de voo.
+
+164
+00:08:26,126 --> 00:08:28,219
+-Certo. Vamos.
+-Vamos pessoal. Atravesse.
+
+165
+00:08:28,244 --> 00:08:29,727
+Tyler Budreaux, classe um.
+
+166
+00:08:29,752 --> 00:08:32,068
+Pulso 90s,
+pressão sanguínea 100/50.
+
+167
+00:08:32,941 --> 00:08:34,367
+Gostaria de saudá-lo, mas...
+
+168
+00:08:34,392 --> 00:08:36,264
+-não sinto meu braço.
+-O que aconteceu?
+
+169
+00:08:36,289 --> 00:08:38,342
+Dois aliados iraquianos
+ficaram loucos. Fogo aberto.
+
+170
+00:08:38,367 --> 00:08:39,756
+Ele tirou as pessoas do caminho.
+
+171
+00:08:39,781 --> 00:08:41,183
+Está olhando
+para um herói, senhor.
+
+172
+00:08:41,208 --> 00:08:42,604
+Realmente preciso
+sentir meu braço.
+
+173
+00:08:42,629 --> 00:08:43,921
+Estamos fazendo
+tudo que podemos.
+
+174
+00:08:43,946 --> 00:08:46,341
+Pendure 2 gramas de cefazolina
+e prepare-o para cirurgia.
+
+175
+00:08:48,144 --> 00:08:50,294
+Pare! Pare! Ela não...
+Espere. Pare!
+
+176
+00:08:50,319 --> 00:08:52,429
+Não toque nela. Ela não quer
+ser tocada por um homem.
+
+177
+00:08:52,454 --> 00:08:54,056
+Escuta, cuido disso. Você vai.
+
+178
+00:08:56,338 --> 00:08:57,861
+Cuido disso. Aqui.
+Saia do meu caminho.
+
+179
+00:08:57,886 --> 00:08:59,147
+"Bala em cima do peito direito.
+
+180
+00:08:59,172 --> 00:09:02,051
+Redução de sons respiratórios."
+Ela precisa de um tubo torácico.
+
+181
+00:09:06,763 --> 00:09:07,874
+Certo. Deixe me olhar.
+
+182
+00:09:07,899 --> 00:09:10,699
+-Onde você o quer?
+-Ferida de estilhaços. Pré-op.
+
+183
+00:09:11,540 --> 00:09:12,581
+O que temos?
+
+184
+00:09:12,606 --> 00:09:15,580
+Nadir Al-Jabouri. Múltiplas
+feridas de bala no tronco.
+
+185
+00:09:15,605 --> 00:09:17,056
+Perp acredita ser
+o segundo atirador.
+
+186
+00:09:17,081 --> 00:09:18,850
+-E ele ainda está vivo?
+-Infelizmente.
+
+187
+00:09:19,151 --> 00:09:20,342
+Trate aquela mulher bem.
+
+188
+00:09:20,374 --> 00:09:21,992
+Porque ela salvou
+a vida de todos.
+
+189
+00:09:22,017 --> 00:09:23,564
+Tentou tirar a arma dele.
+
+190
+00:09:24,314 --> 00:09:27,057
+Ele precisa de laparotomia.
+S.O, agora, vamos lá.
+
+191
+00:09:27,335 --> 00:09:29,780
+-Nathan, entra comigo?
+-É para já.
+
+192
+00:09:29,805 --> 00:09:30,907
+Vamos lá.
+
+193
+00:09:32,933 --> 00:09:34,551
+Sua cama vai ser um carro
+
+194
+00:09:34,583 --> 00:09:36,583
+para que possa ser
+rápido nos sonhos.
+
+195
+00:09:36,655 --> 00:09:37,822
+Um carro?
+
+196
+00:09:37,847 --> 00:09:40,400
+Tipo NASCAR ou Fórmula 1?
+
+197
+00:09:40,719 --> 00:09:42,745
+É um carro muito rápido.
+
+198
+00:09:42,746 --> 00:09:44,647
+-Minha cama?
+-Acredite, é legal.
+
+199
+00:09:44,925 --> 00:09:47,068
+Onde a Mama vai dormir?
+
+200
+00:09:47,093 --> 00:09:48,279
+No quarto dela.
+
+201
+00:09:48,788 --> 00:09:50,162
+Nosso quarto. Ali no corredor.
+
+202
+00:09:50,187 --> 00:09:53,098
+Mas antes costumávamos
+dormir no mesmo quarto.
+
+203
+00:09:53,551 --> 00:09:54,924
+É mais seguro assim.
+
+204
+00:09:54,949 --> 00:09:56,448
+Aqui é nossa casa, parceiro.
+
+205
+00:09:59,036 --> 00:10:00,686
+Sei que é uma mudança grande.
+
+206
+00:10:00,711 --> 00:10:02,758
+Quando começar a escola,
+sentirá melhor.
+
+207
+00:10:02,783 --> 00:10:04,384
+Mama sempre me ensinou.
+
+208
+00:10:04,409 --> 00:10:05,653
+Agora ela não precisa mais.
+
+209
+00:10:05,678 --> 00:10:07,963
+Irá para escola
+com várias crianças.
+
+210
+00:10:07,988 --> 00:10:09,630
+Irá fazer muitos amigos.
+
+211
+00:10:09,655 --> 00:10:11,999
+Talvez entrar em uma banda?
+Você sabe jogar?
+
+212
+00:10:12,024 --> 00:10:13,924
+Futebol, beisebol.
+Irá amar.
+
+213
+00:10:15,170 --> 00:10:17,027
+Me desculpa.
+
+214
+00:10:17,052 --> 00:10:19,114
+Está tudo bem.
+Está descalço, espere.
+
+215
+00:10:19,456 --> 00:10:21,487
+Prontinho, você está bem.
+
+216
+00:10:26,011 --> 00:10:27,066
+Viu?
+
+217
+00:10:27,297 --> 00:10:28,733
+Sem nenhum problema.
+
+218
+00:10:38,501 --> 00:10:39,826
+Esse realmente é
+
+219
+00:10:39,851 --> 00:10:42,223
+um colar bonito
+que deu para Megan.
+
+220
+00:10:42,969 --> 00:10:44,985
+Onde achou esmeraldas em Bagdá?
+
+221
+00:10:45,032 --> 00:10:46,374
+Quer um para você?
+
+222
+00:10:46,480 --> 00:10:47,716
+Parece obcecada.
+
+223
+00:10:47,741 --> 00:10:49,359
+É que me lembra do colar
+
+224
+00:10:49,384 --> 00:10:52,153
+que a Sargento Philips
+ganhou do namorado dela.
+
+225
+00:10:52,178 --> 00:10:53,272
+Você conhece...
+
+226
+00:10:53,811 --> 00:10:55,126
+Felicia Philips?
+
+227
+00:10:55,770 --> 00:10:57,555
+Mas o dela tem...
+
+228
+00:10:58,048 --> 00:10:59,657
+as suas iniciais gravadas atrás.
+
+229
+00:10:59,682 --> 00:11:00,714
+Está gravada?
+
+230
+00:11:01,134 --> 00:11:02,417
+Sim.
+
+231
+00:11:03,855 --> 00:11:04,909
+Lâmina dez.
+
+232
+00:11:20,535 --> 00:11:22,054
+Abra para mim, por favor?
+
+233
+00:11:22,855 --> 00:11:23,890
+Não.
+
+234
+00:11:23,915 --> 00:11:25,649
+-O quê?
+-Não tem comida nessa comida.
+
+235
+00:11:25,674 --> 00:11:28,229
+-Estou com fome.
+-Pode comer quando pararmos.
+
+236
+00:11:35,319 --> 00:11:37,749
+<i>Por favor, retorne à rota.</i>
+
+237
+00:11:38,639 --> 00:11:40,000
+Ela que disse.
+
+238
+00:11:40,100 --> 00:11:41,512
+Atalho.
+
+239
+00:11:41,602 --> 00:11:43,537
+Para onde?
+O lugar que adolescentes
+
+240
+00:11:43,571 --> 00:11:45,338
+são pegos um por um?
+
+241
+00:11:45,373 --> 00:11:46,997
+Qual é, não confia em mim?
+
+242
+00:11:49,944 --> 00:11:51,069
+Está bem.
+
+243
+00:11:59,694 --> 00:12:01,202
+De um lado,
+eu poderia te abraçar.
+
+244
+00:12:01,227 --> 00:12:02,551
+Mas do outro...
+
+245
+00:12:02,734 --> 00:12:03,772
+estou com medo.
+
+246
+00:12:04,288 --> 00:12:05,478
+Você amava aqui.
+
+247
+00:12:05,573 --> 00:12:07,073
+Antes de ser mal assombrada.
+
+248
+00:12:07,098 --> 00:12:09,383
+Achei que gostaria de
+ter revanche no jogo
+
+249
+00:12:09,408 --> 00:12:12,924
+já que sempre chorava e
+dizia que eu trapaceei.
+
+250
+00:12:13,790 --> 00:12:16,377
+-Você trapaceava.
+-Se te ajuda a dormir a noite.
+
+251
+00:12:16,402 --> 00:12:18,266
+-Um jogo.
+-Tudo bem.
+
+252
+00:12:19,054 --> 00:12:22,067
+Certo. Meu Deus.
+Isso traz tantas memórias.
+
+253
+00:12:25,162 --> 00:12:26,247
+É logo ali.
+
+254
+00:12:26,282 --> 00:12:28,897
+Lembra-se disso? Não? Tudo bem.
+
+255
+00:12:34,511 --> 00:12:36,722
+Não, não quero tirar a roupa.
+
+256
+00:12:36,747 --> 00:12:38,548
+Sei que é ruim ficar
+pelada com estranhos,
+
+257
+00:12:38,573 --> 00:12:40,786
+mas não posso te ajudar
+se não me deixar.
+
+258
+00:12:42,785 --> 00:12:44,910
+Meu nome é Megan, qual é o seu?
+
+259
+00:12:49,838 --> 00:12:52,041
+Sana.
+É Sana.
+
+260
+00:12:52,935 --> 00:12:53,970
+Sana.
+
+261
+00:12:57,589 --> 00:12:58,945
+Não parece ser ruim.
+
+262
+00:12:59,176 --> 00:13:00,771
+Entube ela.
+
+263
+00:13:05,339 --> 00:13:07,335
+Você foi ótima com ela.
+
+264
+00:13:07,360 --> 00:13:09,631
+É como se eu soubesse
+fazer meu trabalho.
+
+265
+00:13:10,743 --> 00:13:11,853
+Ei...
+
+266
+00:13:12,195 --> 00:13:14,163
+Que tal me ajudar
+no braço mutilado?
+
+267
+00:13:14,315 --> 00:13:15,893
+-Não faça isso.
+-O quê?
+
+268
+00:13:15,949 --> 00:13:17,437
+Meu sonho foi destruído.
+
+269
+00:13:17,462 --> 00:13:18,717
+Pena não vai funcionar.
+
+270
+00:13:18,742 --> 00:13:21,656
+Seria bom conversar,
+celebrar as coisas boas,
+
+271
+00:13:21,681 --> 00:13:23,826
+no qual existem,
+apesar dos improvisos.
+
+272
+00:13:23,851 --> 00:13:25,822
+A mãe estressada com
+os dois casamentos.
+
+273
+00:13:25,847 --> 00:13:27,223
+-Dois casamentos?
+-Qual é.
+
+274
+00:13:27,248 --> 00:13:29,509
+Talvez ela possa
+planejar seu divórcio.
+
+275
+00:13:29,800 --> 00:13:32,295
+Precisa de mais enchimento
+no quadrante esquerdo.
+
+276
+00:13:32,320 --> 00:13:34,835
+-Esse baço está destruído.
+-Mais gaze.
+
+277
+00:13:34,847 --> 00:13:36,856
+Todas as estúpidas,
+egoístas, imbecis,
+
+278
+00:13:36,890 --> 00:13:38,823
+e completamente previsíveis.
+
+279
+00:13:38,848 --> 00:13:41,626
+Não devemos julgar,
+dra. Altman, só concertar.
+
+280
+00:13:41,626 --> 00:13:43,013
+Não estou falando dele.
+
+281
+00:13:47,532 --> 00:13:49,069
+Não sabe a história toda.
+
+282
+00:13:49,094 --> 00:13:51,726
+Ele abriu fogo nas pessoas
+que amava, que amava ele.
+
+283
+00:13:51,751 --> 00:13:55,171
+Isso é traição. E nenhuma
+racionalização faz ficar bem.
+
+284
+00:13:55,339 --> 00:13:56,377
+Sucção.
+
+285
+00:13:58,977 --> 00:14:00,007
+Não, isso é...
+
+286
+00:14:00,032 --> 00:14:01,491
+Não, isso é uma
+posição de entrada.
+
+287
+00:14:01,516 --> 00:14:04,364
+Tenho experiência no campo
+e em NGO.
+
+288
+00:14:04,365 --> 00:14:07,166
+Licença, precisão disso.
+Não sei como se chama.
+
+289
+00:14:07,199 --> 00:14:08,460
+É uma chave de fenda, parceiro.
+
+290
+00:14:08,485 --> 00:14:09,809
+Vai ter que fazer melhor.
+
+291
+00:14:09,834 --> 00:14:11,563
+Não acho as ferramentas.
+
+292
+00:14:11,682 --> 00:14:14,107
+Sim? Não podem ser todos
+hospitais locais.
+
+293
+00:14:14,132 --> 00:14:15,837
+Não aceitarei menos
+do que valo.
+
+294
+00:14:15,862 --> 00:14:18,043
+Por que te pago uma comissão
+se não me consegue
+
+295
+00:14:18,068 --> 00:14:20,073
+-o que espero de você?
+-Mas...
+
+296
+00:14:21,129 --> 00:14:22,161
+Sim.
+
+297
+00:14:23,224 --> 00:14:24,835
+Tiro de sorte.
+
+298
+00:14:24,860 --> 00:14:26,698
+Acabei de enganchar
+um anel de tétano
+
+299
+00:14:26,699 --> 00:14:28,571
+em volta da última garrafa.
+Isso não é sorte.
+
+300
+00:14:29,840 --> 00:14:31,298
+Certo.
+Eu consigo esse,
+
+301
+00:14:31,323 --> 00:14:33,376
+e controlo a música
+no resto da viagem.
+
+302
+00:14:33,410 --> 00:14:35,047
+Isso são muitos Kenny Loggins.
+
+303
+00:14:35,207 --> 00:14:36,433
+Erre, erre.
+
+304
+00:14:38,540 --> 00:14:39,572
+Certo.
+
+305
+00:14:39,690 --> 00:14:42,191
+Se eu acertar esse, terá que usar
+suéteres feios
+
+306
+00:14:42,252 --> 00:14:43,873
+-todos os natais.
+-Tudo bem.
+
+307
+00:14:46,373 --> 00:14:48,825
+Tudo bem,
+se eu acertar esse...
+
+308
+00:14:49,515 --> 00:14:50,856
+você continua em Seattle.
+
+309
+00:14:51,242 --> 00:14:52,285
+Isso.
+
+310
+00:14:54,879 --> 00:14:55,964
+Sim.
+
+311
+00:14:56,787 --> 00:14:58,662
+Parece que temos que
+voltar agora.
+
+312
+00:15:01,360 --> 00:15:02,400
+Inacreditável.
+
+313
+00:15:02,425 --> 00:15:05,398
+-Megan, estou brincando.
+-Não está, foi por isso que veio.
+
+314
+00:15:05,423 --> 00:15:07,478
+-Está tirando isso da proporção.
+-Acha que sabe
+
+315
+00:15:07,503 --> 00:15:09,017
+o que é melhor,
+desde éramos crianças,
+
+316
+00:15:09,042 --> 00:15:10,438
+não importa se queria ou não.
+
+317
+00:15:10,463 --> 00:15:12,296
+-Salva-vidas?
+-Não sabe nadar bem.
+
+318
+00:15:12,321 --> 00:15:13,693
+-Servir?
+-Desculpa por não querer
+
+319
+00:15:13,718 --> 00:15:14,822
+que minha irmã
+leve um tiro.
+
+320
+00:15:14,856 --> 00:15:16,557
+-Minha strat.
+-Sua strat?
+
+321
+00:15:17,407 --> 00:15:18,701
+Ainda está se
+fingindo de idiota?
+
+322
+00:15:18,726 --> 00:15:19,842
+Faz 10 anos, Megan.
+
+323
+00:15:19,867 --> 00:15:22,835
+E eu fui sequestrada antes de
+podermos brigar sobre isso.
+
+324
+00:15:31,245 --> 00:15:32,712
+2-0 <i>Silk tie.</i>
+
+325
+00:15:33,864 --> 00:15:34,974
+Então combinado.
+
+326
+00:15:34,999 --> 00:15:36,854
+Hoje liga para Beth e
+diz que acabou.
+
+327
+00:15:36,879 --> 00:15:38,608
+Um casamento a menos
+para mãe se preocupar.
+
+328
+00:15:38,633 --> 00:15:40,123
+Não é tão simples, Megan.
+
+329
+00:15:41,109 --> 00:15:43,648
+-Talvez seja sim.
+-Sabe que estou certa.
+
+330
+00:15:44,339 --> 00:15:46,173
+Veremos.
+Tesouras.
+
+331
+00:15:50,831 --> 00:15:53,444
+Vou sentir falta disso,
+trabalhar juntos.
+
+332
+00:15:53,844 --> 00:15:56,313
+Seu treinamento de cirurgiã
+de voo te prende por meses,
+
+333
+00:15:56,348 --> 00:15:57,407
+e para quê?
+
+334
+00:15:57,432 --> 00:15:59,773
+Fazendo torniquetes
+com as forças especiais,
+
+335
+00:15:59,798 --> 00:16:02,178
+em algum lugar três vezes
+mais perigoso que aqui.
+
+336
+00:16:02,203 --> 00:16:04,186
+Se me perguntar,
+desviou uma bala.
+
+337
+00:16:04,955 --> 00:16:06,590
+Você me recomendou, não é?
+
+338
+00:16:09,405 --> 00:16:12,516
+Ele perdeu mais sangue que
+esperávamos. Vamos estabilizar.
+
+339
+00:16:15,043 --> 00:16:16,977
+Você sabe que não foi
+minha decisão.
+
+340
+00:16:19,920 --> 00:16:21,545
+Festival?
+Parece divertido.
+
+341
+00:16:22,941 --> 00:16:24,394
+Ou talvez não.
+
+342
+00:16:25,172 --> 00:16:27,727
+Estaremos lá
+com as luzes acesas.
+
+343
+00:16:27,834 --> 00:16:28,973
+Dirija com cuidado.
+
+344
+00:16:30,188 --> 00:16:32,163
+Farouk, Megan
+vai se atrasar um pouco.
+
+345
+00:16:32,188 --> 00:16:33,894
+Mas tenho novidades.
+
+346
+00:16:33,919 --> 00:16:35,348
+Achei sua
+chave de fenda.
+
+347
+00:16:36,673 --> 00:16:37,704
+Farouk?
+
+348
+00:16:40,375 --> 00:16:41,452
+Parceiro?
+
+349
+00:16:43,704 --> 00:16:44,742
+Farouk.
+
+350
+00:16:49,626 --> 00:16:50,713
+Farouk!
+
+351
+00:16:54,428 --> 00:16:55,458
+Farouk!
+
+352
+00:16:57,632 --> 00:17:00,500
+Vocês viram um menininho?
+De uns 10 anos?
+
+353
+00:17:02,086 --> 00:17:03,459
+Precisamos terminar e sair daqui.
+
+354
+00:17:03,484 --> 00:17:05,395
+Não, quero fazer enxerto
+de veia safena inverso.
+
+355
+00:17:05,420 --> 00:17:06,791
+Não com essas vitais,
+o melhor
+
+356
+00:17:06,816 --> 00:17:09,110
+é fechar o membro,
+e estabilizar ele.
+
+357
+00:17:09,135 --> 00:17:11,086
+O transplante dura muito,
+tem riscos demais.
+
+358
+00:17:11,111 --> 00:17:12,960
+Sei que não me acha qualificada.
+Mas é o certo.
+
+359
+00:17:12,985 --> 00:17:15,619
+-Ele quer salvar o braço.
+-Não a custo de sua vida.
+
+360
+00:17:15,736 --> 00:17:17,872
+Tenho mais experiência
+que você.
+
+361
+00:17:18,023 --> 00:17:20,393
+Então faremos as coisas...
+Megan, o que está fazendo?
+
+362
+00:17:20,418 --> 00:17:21,465
+Betadine.
+
+363
+00:17:34,176 --> 00:17:35,816
+Tem que parar para comer.
+
+364
+00:17:35,841 --> 00:17:36,975
+Sem fome.
+
+365
+00:17:40,866 --> 00:17:41,914
+Oi.
+
+366
+00:17:42,823 --> 00:17:44,604
+Sim, tudo bem. O que houve?
+
+367
+00:17:46,398 --> 00:17:47,437
+Desculpa.
+
+368
+00:17:47,462 --> 00:17:51,024
+Eu decidi vir com a Megan,
+e esqueci completamente de ligar.
+
+369
+00:17:51,049 --> 00:17:53,540
+Não queria que ela dirigisse
+sozinha. Então...
+
+370
+00:17:56,491 --> 00:17:57,810
+Estamos nos divertindo.
+
+371
+00:17:58,542 --> 00:17:59,576
+Sim.
+
+372
+00:18:01,363 --> 00:18:02,727
+Tchau.
+
+373
+00:18:05,486 --> 00:18:08,705
+Existe alguma mulher na sua vida
+para a qual você não mente?
+
+374
+00:18:33,097 --> 00:18:34,297
+Com licença.
+
+375
+00:18:37,213 --> 00:18:38,412
+Farouk.
+
+376
+00:18:38,753 --> 00:18:40,126
+Parceiro.
+
+377
+00:18:40,944 --> 00:18:42,672
+Você não pode sumir desse jeito.
+
+378
+00:18:42,792 --> 00:18:44,426
+Você me assustou.
+
+379
+00:18:47,304 --> 00:18:48,407
+Tudo bem?
+
+380
+00:18:48,442 --> 00:18:50,810
+Você estava muito ocupado.
+Achei que poderia ajudar.
+
+381
+00:18:51,089 --> 00:18:53,424
+Pensei em pegar
+comida para a gente, mas...
+
+382
+00:18:53,449 --> 00:18:55,866
+tem tantas opções.
+
+383
+00:19:07,664 --> 00:19:08,694
+Sim.
+
+384
+00:19:10,677 --> 00:19:12,582
+O sangramento está
+controlado aqui. Grampo.
+
+385
+00:19:12,607 --> 00:19:14,275
+Aqui também. Irrigação.
+
+386
+00:19:18,411 --> 00:19:20,689
+-Digamos que ele se arrependa.
+-Perdão?
+
+387
+00:19:20,952 --> 00:19:23,927
+Ele fez um erro colossal.
+Machucou quem ele mais se importa.
+
+388
+00:19:23,952 --> 00:19:25,486
+Mas digamos que ele se arrependa.
+
+389
+00:19:25,659 --> 00:19:28,080
+Ele estava assustado,
+estúpido, errado,
+
+390
+00:19:28,115 --> 00:19:29,802
+e agora ele está
+sentindo tudo fugir dele
+
+391
+00:19:29,827 --> 00:19:31,715
+e vai fazer tudo o que puder
+para ter de volta.
+
+392
+00:19:31,740 --> 00:19:32,817
+Eu diria...
+
+393
+00:19:33,280 --> 00:19:36,376
+que pena que ele não pensou
+nisso antes de puxar o gatilho.
+
+394
+00:19:39,609 --> 00:19:41,972
+Ele ainda está hipotensivo. Nós
+temos que controlar e parar.
+
+395
+00:19:41,997 --> 00:19:44,006
+Comece os vasoconstritores.
+Pode parar de drama
+
+396
+00:19:44,031 --> 00:19:45,229
+-e me ajudar?
+-Pare de ser tão
+
+397
+00:19:45,254 --> 00:19:46,698
+teimosa e me escute
+de vez em quando.
+
+398
+00:19:46,723 --> 00:19:48,298
+Cale-se! Por favor.
+
+399
+00:19:48,323 --> 00:19:49,362
+Senhor.
+
+400
+00:19:50,587 --> 00:19:51,787
+Estou quase lá.
+
+401
+00:19:56,934 --> 00:19:58,219
+Grampos retirados.
+
+402
+00:20:09,560 --> 00:20:11,195
+Ele conseguiu o braço e a vida.
+
+403
+00:20:11,220 --> 00:20:13,305
+Sim.
+
+404
+00:20:13,932 --> 00:20:15,346
+Isso foi impressionante.
+
+405
+00:20:15,370 --> 00:20:17,529
+Gostaria que não fosse tanta
+surpresa assim.
+
+406
+00:20:17,554 --> 00:20:19,170
+Você pode terminar.
+
+407
+00:20:26,916 --> 00:20:29,274
+Eu gastei milhares de horas
+para me tornar a melhor.
+
+408
+00:20:29,387 --> 00:20:31,592
+A melhor em linhas centrais.
+A melhor em nós de uma mão.
+
+409
+00:20:31,617 --> 00:20:34,778
+A melhor oficial militar.
+Planejei toda a minha carreira.
+
+410
+00:20:34,803 --> 00:20:37,039
+Iria para as Forças Especiais
+e me tornaria general.
+
+411
+00:20:37,064 --> 00:20:38,889
+Suas qualificações não
+são parte do debate.
+
+412
+00:20:38,914 --> 00:20:41,117
+Então os convenceu que
+eu era a escolha errada?
+
+413
+00:20:41,142 --> 00:20:44,027
+Tudo que eu disse a eles foi a
+verdade. Você é uma criança.
+
+414
+00:20:44,052 --> 00:20:46,360
+Que você faz apressadas
+e imprudentes decisões,
+
+415
+00:20:46,385 --> 00:20:48,986
+e que nunca aprende porque
+eu sempre estou lá para salvá-la.
+
+416
+00:20:49,011 --> 00:20:51,066
+Se tivesse ido para as Forças
+Especiais não teria se
+
+417
+00:20:51,091 --> 00:20:53,168
+tornado general. Teria
+morrido em menos de um mês.
+
+418
+00:20:53,517 --> 00:20:55,515
+E 10 anos depois,
+o que você aprendeu? Nada.
+
+419
+00:20:55,597 --> 00:20:58,275
+Você está fugindo da sua família.
+Fugindo do seu sistema de apoio.
+
+420
+00:20:58,300 --> 00:20:59,642
+E por quê?
+Porque gosta de praia?
+
+421
+00:20:59,667 --> 00:21:00,727
+Isso não é um plano,
+
+422
+00:21:00,752 --> 00:21:02,110
+Megan.
+É um capricho.
+
+423
+00:21:02,135 --> 00:21:04,069
+Então, sim, eu boicotei
+o seu strat.
+
+424
+00:21:04,423 --> 00:21:07,323
+E se tivesse que fazer de novo,
+eu faria a mesma coisa.
+
+425
+00:21:24,779 --> 00:21:27,278
+Então você vai me punir
+como sempre faz
+
+426
+00:21:27,303 --> 00:21:29,436
+quando eu digo algo que
+você não gosta.
+
+427
+00:21:30,478 --> 00:21:31,555
+Tudo bem.
+
+428
+00:21:32,047 --> 00:21:34,500
+Mas você não consegue dizer nada
+porque sabe que estou certo.
+
+429
+00:21:34,525 --> 00:21:35,555
+E, só para você saber,
+
+430
+00:21:35,580 --> 00:21:38,444
+esse é o comportamento infantil
+que eu estava falando.
+
+431
+00:21:39,179 --> 00:21:40,646
+-Diamante
+-O quê?
+
+432
+00:21:40,809 --> 00:21:43,666
+Seu apelido, em Bagdá.
+Lembra?
+
+433
+00:21:43,768 --> 00:21:45,339
+Major Diamante.
+
+434
+00:21:45,509 --> 00:21:46,676
+Sim.
+
+435
+00:21:46,845 --> 00:21:48,348
+Sabe por que te chamavam assim?
+
+436
+00:21:48,373 --> 00:21:49,865
+Eles me disseram.
+
+437
+00:21:49,890 --> 00:21:51,776
+Afiado, claro, focado.
+
+438
+00:21:51,801 --> 00:21:54,296
+Mandão. Estressado.
+
+439
+00:21:54,623 --> 00:21:57,798
+Tão tenso que se você colocar
+carvão na sua bunda,
+
+440
+00:21:57,823 --> 00:21:59,627
+sai um diamante.
+
+441
+00:22:00,766 --> 00:22:02,549
+Você achou que era elogio.
+
+442
+00:22:02,998 --> 00:22:04,962
+O que fez mais engraçado.
+
+443
+00:22:06,026 --> 00:22:07,963
+Como eu disse. Uma criança.
+
+444
+00:22:08,755 --> 00:22:10,777
+Só para você saber,
+eu que inventei.
+
+445
+00:22:12,896 --> 00:22:14,674
+Desculpa nunca ter dito,
+mas, você sabe,
+
+446
+00:22:14,699 --> 00:22:16,475
+agora que estamos jogando limpo.
+
+447
+00:22:21,504 --> 00:22:23,938
+-Mais escolhas.
+-Sim, mas não é uma coisa ruim.
+
+448
+00:22:24,219 --> 00:22:27,323
+Digo, experimenta um de cada
+e veja qual você gosta.
+
+449
+00:22:37,093 --> 00:22:38,994
+-Entendeu?
+-Sim.
+
+450
+00:22:42,557 --> 00:22:44,055
+Pode guardar um segredo?
+
+451
+00:22:44,967 --> 00:22:46,601
+Estou um pouco assustado
+
+452
+00:22:46,776 --> 00:22:48,697
+sobre recomeçar aqui.
+
+453
+00:22:48,999 --> 00:22:50,848
+Nova cidade.
+
+454
+00:22:50,873 --> 00:22:51,904
+Nova família.
+
+455
+00:22:51,929 --> 00:22:54,499
+Não tenho nem emprego e quero que
+tudo seja perfeito para Megan,
+
+456
+00:22:54,524 --> 00:22:56,602
+mas levei metade de um dia para
+arrumar uma porta.
+
+457
+00:22:58,551 --> 00:23:01,106
+Então, o que você vai fazer?
+
+458
+00:23:01,416 --> 00:23:02,455
+Vejamos...
+
+459
+00:23:04,670 --> 00:23:06,044
+Acho que vou ter que concordar
+
+460
+00:23:06,069 --> 00:23:08,169
+mesmo não sabendo
+todas as respostas.
+
+461
+00:23:08,674 --> 00:23:10,121
+Sabe, conte com o fato
+
+462
+00:23:10,146 --> 00:23:11,762
+de que amamos Megan
+
+463
+00:23:11,787 --> 00:23:12,979
+e ela nos ama. E...
+
+464
+00:23:13,004 --> 00:23:15,068
+confie que juntos, nós três,
+
+465
+00:23:16,084 --> 00:23:18,032
+vamos descobrir como
+lidar com isso.
+
+466
+00:23:24,406 --> 00:23:25,920
+Você pode me ensinar beisebol?
+
+467
+00:23:25,920 --> 00:23:28,229
+Claro que sim. Eu posso
+te ensinar beisebol.
+
+468
+00:23:28,434 --> 00:23:30,309
+Assim que eu
+aprender como jogar.
+
+469
+00:23:36,371 --> 00:23:37,774
+Isso é tudo que
+podemos fazer agora.
+
+470
+00:23:37,799 --> 00:23:38,975
+Ele irá de transporte.
+
+471
+00:23:39,006 --> 00:23:40,841
+Se ele tiver sorte, eles
+o levarão para Bagdá.
+
+472
+00:23:40,866 --> 00:23:42,127
+Se ele tiver sorte.
+
+473
+00:23:47,046 --> 00:23:48,416
+Como você pôde fazer
+isso com ela?
+
+474
+00:23:48,451 --> 00:23:49,657
+Eu não sei.
+
+475
+00:23:49,823 --> 00:23:51,950
+-Nós estávamos brigando...
+-Estavam brigando, então,
+
+476
+00:23:51,975 --> 00:23:54,609
+você a pediu em casamento
+enquanto você estava com outra?
+
+477
+00:23:54,801 --> 00:23:56,795
+Não.
+Olha, Felícia, não...
+
+478
+00:23:56,820 --> 00:23:58,618
+Foi coisa de uma vez.
+
+479
+00:23:59,896 --> 00:24:01,539
+O que eu deveria fazer, Teddy?
+
+480
+00:24:03,758 --> 00:24:05,782
+Foi sério? O pedido?
+
+481
+00:24:05,807 --> 00:24:07,147
+Claro.
+
+482
+00:24:07,321 --> 00:24:08,481
+Megan...
+
+483
+00:24:08,797 --> 00:24:10,429
+Tudo bem. Nós brigamos.
+Mas ela é única.
+
+484
+00:24:10,463 --> 00:24:12,031
+Certo? Eu ia contar
+sobre a Felícia.
+
+485
+00:24:12,056 --> 00:24:14,429
+Eu ia me esclarecer.
+Então, ela achou o colar.
+
+486
+00:24:14,976 --> 00:24:16,602
+-Eu entrei em pânico.
+-Ela vai descobrir.
+
+487
+00:24:16,627 --> 00:24:18,507
+-Eu sei.
+-E se não vir de você...
+
+488
+00:24:18,532 --> 00:24:19,585
+Eu sei.
+
+489
+00:24:20,009 --> 00:24:21,042
+Então...
+
+490
+00:24:21,497 --> 00:24:22,823
+você tem sua resposta.
+
+491
+00:24:23,997 --> 00:24:26,093
+Você acha que ainda
+tenho uma chance?
+
+492
+00:24:28,250 --> 00:24:30,012
+Ela é geniosa.
+
+493
+00:24:30,862 --> 00:24:32,583
+E ela tem todo o direito
+de estar com raiva.
+
+494
+00:24:32,608 --> 00:24:34,620
+Quando o Owen descobrir,
+vai quebrar o seu pescoço.
+
+495
+00:24:34,645 --> 00:24:36,252
+-Sim.
+-Mas...
+
+496
+00:24:38,080 --> 00:24:39,333
+pessoas erram.
+
+497
+00:24:39,958 --> 00:24:41,509
+E pessoas perdoam.
+
+498
+00:24:43,783 --> 00:24:46,584
+É o que a maioria das músicas
+e a literatura moderna diz.
+
+499
+00:24:46,609 --> 00:24:48,220
+Então, sim, Nathan.
+
+500
+00:24:48,500 --> 00:24:50,148
+Diga a ela a verdade, então,
+
+501
+00:24:50,332 --> 00:24:51,955
+você terá uma chance.
+
+502
+00:25:08,712 --> 00:25:11,077
+Foi errado, eu me meter
+na sua carreira.
+
+503
+00:25:11,793 --> 00:25:14,506
+Não era da minha conta.
+Eu estava fora da jogada.
+
+504
+00:25:15,008 --> 00:25:17,839
+Foi, foi errado.
+Me desculpe.
+
+505
+00:25:18,777 --> 00:25:19,909
+Obrigada.
+
+506
+00:25:23,296 --> 00:25:25,567
+Não muda o fato que as escolas
+de Seattle são excelentes.
+
+507
+00:25:25,592 --> 00:25:27,741
+-Meu Deus! Dá um tempo.
+-Nathan já tem um trabalho lá
+
+508
+00:25:27,766 --> 00:25:29,635
+e é um lugar seguro, familiar.
+
+509
+00:25:29,788 --> 00:25:31,070
+Perto da família.
+
+510
+00:25:31,421 --> 00:25:32,625
+O que está fazendo?
+
+511
+00:25:33,956 --> 00:25:35,004
+Saia.
+
+512
+00:25:35,029 --> 00:25:36,394
+Saia do meu carro, Owen.
+
+513
+00:25:36,428 --> 00:25:37,736
+Pare de ser ridícula.
+
+514
+00:25:37,761 --> 00:25:39,729
+-Não! Saia!
+-Pare!
+
+515
+00:25:39,983 --> 00:25:41,680
+O que você quer dizer
+com "Megan não vem"?
+
+516
+00:25:41,705 --> 00:25:43,974
+Ela pensa que arruinou os
+planos dela. Está com raiva.
+
+517
+00:25:43,999 --> 00:25:46,354
+-Espero que tenha dito que estava louca.
+-Ela estava?
+
+518
+00:25:46,393 --> 00:25:48,481
+Ótimo. Você também, não.
+
+519
+00:25:48,515 --> 00:25:50,352
+Só estou perguntando.
+Não estou acusando.
+
+520
+00:25:50,377 --> 00:25:51,552
+Quer saber? Ela está noiva.
+
+521
+00:25:51,577 --> 00:25:53,908
+Pensaria que ela gostaria
+de viver uma vida segura e feliz.
+
+522
+00:25:53,933 --> 00:25:56,049
+Talvez, planejar um casamento.
+É um pensamento louco?
+
+523
+00:25:56,074 --> 00:25:57,133
+Meu Deus.
+
+524
+00:25:57,158 --> 00:25:58,932
+É tudo o que ela queria, Owen.
+
+525
+00:25:58,957 --> 00:26:01,069
+É o que ela pensa o tempo todo.
+E estava tão perto.
+
+526
+00:26:01,104 --> 00:26:02,704
+Você sabe o quão
+difícil é suportar
+
+527
+00:26:02,739 --> 00:26:04,940
+e assistir alguém viver
+a vida que você quer?
+
+528
+00:26:04,974 --> 00:26:07,936
+A vida que você se dispõe a
+desistir de tudo para vivê-la?
+
+529
+00:26:07,961 --> 00:26:09,133
+Você é um idiota.
+
+530
+00:26:09,256 --> 00:26:11,474
+Major, precisamos partir.
+
+531
+00:26:13,498 --> 00:26:15,339
+Certifique-se de que
+Megan voltará com vocês.
+
+532
+00:26:15,364 --> 00:26:17,507
+Eu só consigo tolerar
+alguns chiliques.
+
+533
+00:26:35,453 --> 00:26:36,754
+<i>Saia!</i>
+
+534
+00:26:38,443 --> 00:26:40,536
+-Saia. Estou falando sério.
+-Pare com isso.
+
+535
+00:26:40,561 --> 00:26:42,782
+Não. Se não pode me apoiar, então
+pode pedir uma carona.
+
+536
+00:26:42,807 --> 00:26:44,155
+-Estou de saco cheio. Saia.
+-Pare.
+
+537
+00:26:44,180 --> 00:26:45,869
+Eu não irei te deixar novamente.
+
+538
+00:26:49,085 --> 00:26:50,852
+Você precisa parar
+de fazer isso.
+
+539
+00:26:51,317 --> 00:26:53,658
+Você não pode tomar
+decisões por mim, Owen.
+
+540
+00:26:53,683 --> 00:26:55,158
+Porque está fazendo
+uma decisão ruim.
+
+541
+00:26:55,183 --> 00:26:56,688
+É o único que pensa assim.
+
+542
+00:26:56,713 --> 00:26:58,330
+Nathan é o culpado
+por termos te perdido.
+
+543
+00:26:58,355 --> 00:26:59,688
+Você não sabe o que está falando.
+
+544
+00:26:59,713 --> 00:27:01,633
+Te traiu e agora irá
+começar uma família com ele?
+
+545
+00:27:01,658 --> 00:27:03,370
+Você traiu sua primeira esposa.
+
+546
+00:27:03,560 --> 00:27:04,634
+Mamãe me contou.
+
+547
+00:27:04,659 --> 00:27:07,634
+E nem me faça entrar no
+assunto de você e Teddy.
+
+548
+00:27:07,980 --> 00:27:10,311
+Portanto, poupe-me do
+"sou mais santo do que você".
+
+549
+00:27:10,336 --> 00:27:12,462
+Você traiu. Nathan traiu.
+Acontece.
+
+550
+00:27:12,660 --> 00:27:14,205
+Na vida acontece.
+
+551
+00:27:14,230 --> 00:27:15,614
+Pessoas não são perfeitas.
+
+552
+00:27:15,639 --> 00:27:19,610
+Falhamos e caímos. E alguns,
+são sequestrados por uma década.
+
+553
+00:27:19,635 --> 00:27:21,927
+E quando temos uma segunda
+chance na vida de felicidade,
+
+554
+00:27:21,952 --> 00:27:24,158
+nós a aproveitamos,
+independentemente de quem traiu.
+
+555
+00:27:24,183 --> 00:27:25,793
+Porque, agora,
+sabemos o que importa.
+
+556
+00:27:25,818 --> 00:27:28,055
+Porque, agora, nós sabemos
+o que é precioso.
+
+557
+00:27:28,080 --> 00:27:29,280
+Porque, agora, sabemos que
+
+558
+00:27:29,305 --> 00:27:31,010
+qualquer mínimo
+momento de felicidade
+
+559
+00:27:31,035 --> 00:27:32,798
+que podemos agarrar nesta vida,
+
+560
+00:27:32,823 --> 00:27:34,679
+é um momento que vale a pena ter.
+
+561
+00:27:34,704 --> 00:27:36,837
+Independentemente, do
+que possam pensar.
+
+562
+00:27:36,862 --> 00:27:38,997
+E para registrar,
+seu crítico filho da mãe
+
+563
+00:27:39,022 --> 00:27:40,679
+eu traí o Nathan primeiro.
+
+564
+00:28:09,705 --> 00:28:10,761
+Oi.
+
+565
+00:28:20,474 --> 00:28:22,689
+-O que houve?
+-Desculpe, eu...
+
+566
+00:28:24,859 --> 00:28:26,385
+Preciso desse colar de volta.
+
+567
+00:28:29,869 --> 00:28:31,490
+Droga, droga.
+
+568
+00:28:31,696 --> 00:28:33,797
+-Só me ouça.
+-Está bem, o que ele disse?
+
+569
+00:28:33,822 --> 00:28:37,057
+Não. Quer saber? Não importa.
+Foi um erro de bêbada.
+
+570
+00:28:37,082 --> 00:28:39,084
+Nós estávamos brigando
+e eu ia te contar.
+
+571
+00:28:39,109 --> 00:28:41,102
+Espera um pouco.
+O que está dizendo?
+
+572
+00:28:41,549 --> 00:28:43,049
+O que acha que estou dizendo?
+
+573
+00:28:43,074 --> 00:28:44,434
+Parece que dormiu com alguém.
+
+574
+00:28:44,459 --> 00:28:46,092
+Não é por isso que quer
+o colar de volta?
+
+575
+00:28:46,117 --> 00:28:47,198
+Não. Ele...
+
+576
+00:28:48,796 --> 00:28:50,142
+Então por quê?
+
+577
+00:28:53,508 --> 00:28:55,131
+Não era meu para dar.
+
+578
+00:29:01,940 --> 00:29:05,757
+Me pediu em casamento
+com o colar de outra mulher?
+
+579
+00:29:08,056 --> 00:29:09,726
+Nossa, Nathan.
+Qual é o seu problema?
+
+580
+00:29:09,751 --> 00:29:12,556
+Você não é a única
+que está brava agora, certo?
+
+581
+00:29:12,625 --> 00:29:14,218
+Você também me traiu.
+Acabou de dizer.
+
+582
+00:29:14,243 --> 00:29:15,512
+Eu sei o que eu disse.
+
+583
+00:29:17,035 --> 00:29:20,871
+Passei o dia mostrando
+essa coisa. Isso é humilhante.
+
+584
+00:29:21,308 --> 00:29:22,535
+Mas você tinha a intenção?
+
+585
+00:29:22,560 --> 00:29:24,753
+Lógico que sim. E você?
+
+586
+00:29:25,188 --> 00:29:28,107
+Tenente Hunt, temos um
+problema com sua paciente.
+
+587
+00:29:29,329 --> 00:29:30,362
+Estou indo.
+
+588
+00:29:40,420 --> 00:29:42,634
+Estávamos transferindo-a
+e tubo torácico começou a sair.
+
+589
+00:29:42,659 --> 00:29:43,988
+Precisa reposicioná-lo,
+
+590
+00:29:44,013 --> 00:29:46,538
+mas se dermos mais morfina para
+a dor, vamos ter que intubá-la.
+
+591
+00:29:46,563 --> 00:29:47,737
+Certo. Entendido.
+
+592
+00:29:47,762 --> 00:29:51,576
+Sana, você vai conseguir.
+Certo? Preciso que respire.
+
+593
+00:29:51,601 --> 00:29:53,886
+Machuca. Não consigo.
+
+594
+00:29:53,911 --> 00:29:55,266
+Pense em outra coisa,
+está bem?
+
+595
+00:29:55,291 --> 00:29:57,803
+Me conte sobre seu bairro,
+sua família, emprego, filhos.
+
+596
+00:29:57,828 --> 00:29:58,876
+Tem filhos?
+
+597
+00:29:59,456 --> 00:30:01,729
+Tudo bem, vou te contar
+sobre a minha família.
+
+598
+00:30:01,754 --> 00:30:03,344
+O ruivo alto, gritando
+com todo mundo?
+
+599
+00:30:03,369 --> 00:30:06,111
+É meu irmão. Me enlouquece
+quase que o tempo todo. Não...
+
+600
+00:30:06,136 --> 00:30:07,292
+o tempo todo.
+
+601
+00:30:08,514 --> 00:30:11,408
+-Parece o meu irmão.
+-É?
+
+602
+00:30:11,726 --> 00:30:14,376
+Ele é meu coração.
+Ele tem boas intenções.
+
+603
+00:30:14,551 --> 00:30:15,670
+É.
+
+604
+00:30:20,790 --> 00:30:22,024
+O meu também.
+
+605
+00:30:27,302 --> 00:30:28,825
+Vamos colocá-la
+no próximo helicóptero.
+
+606
+00:30:28,850 --> 00:30:29,933
+Vou ver isso.
+
+607
+00:30:31,175 --> 00:30:34,212
+-Major Hunt.
+-<i>Oi. Sou eu.</i>
+
+608
+00:30:34,482 --> 00:30:36,091
+Preciso voltar
+no helicóptero médico.
+
+609
+00:30:36,125 --> 00:30:37,607
+<i>Minha paciente está
+enlouquecendo.</i>
+
+610
+00:30:37,632 --> 00:30:39,693
+-Sabe que é contra o protocolo.
+-<i>E</i>...
+
+611
+00:30:40,346 --> 00:30:41,626
+<i>Nathan me traiu.</i>
+
+612
+00:30:41,651 --> 00:30:42,770
+<i>Ele o quê?</i>
+
+613
+00:30:43,495 --> 00:30:47,478
+Não quero ter que voltar com ele,
+mas se é contra o protocolo...
+
+614
+00:30:47,503 --> 00:30:49,387
+Dane-se o protocolo.
+Pegue o helicóptero.
+
+615
+00:30:49,412 --> 00:30:51,296
+-Tem certeza?
+-A decisão é minha. Tenho certeza.
+
+616
+00:30:51,321 --> 00:30:52,658
+Filho da mãe.
+
+617
+00:30:53,501 --> 00:30:55,763
+Certo. Obrigada, Owen.
+
+618
+00:31:00,316 --> 00:31:01,458
+Como você está?
+
+619
+00:31:01,498 --> 00:31:03,625
+Como se um caminhão
+tivesse me atingido.
+
+620
+00:31:03,650 --> 00:31:05,395
+Mas feliz de estar viva, senhora.
+
+621
+00:31:06,382 --> 00:31:09,359
+Queria saber se vão eletrocutá-lo
+aqui ou vão levá-lo para casa.
+
+622
+00:31:09,391 --> 00:31:10,933
+Por que estão falando assim?
+
+623
+00:31:11,075 --> 00:31:13,567
+Ele foi o segundo atirador.
+Estão bem perturbados.
+
+624
+00:31:13,592 --> 00:31:15,982
+Não, não foi. O segundo atirador
+era uma mulher iraquiana.
+
+625
+00:31:16,007 --> 00:31:17,837
+Esse cara estava
+tentando detê-la.
+
+626
+00:31:30,065 --> 00:31:32,692
+Está tudo bem.
+Você vai ficar bem.
+
+627
+00:31:39,474 --> 00:31:42,148
+Megan. Megan.
+
+628
+00:31:42,780 --> 00:31:44,732
+Megan! Pare!
+
+629
+00:31:44,964 --> 00:31:47,771
+Pare. Megan!
+
+630
+00:31:47,875 --> 00:31:49,112
+Pare!
+
+631
+00:31:55,501 --> 00:31:57,828
+<i>Águia 2, retorne para a base.</i>
+
+632
+00:32:05,174 --> 00:32:06,348
+<i>Repito.</i>
+
+633
+00:32:06,475 --> 00:32:09,341
+<i>Águia 2, retorne
+para a base imediatamente.</i>
+
+634
+00:32:19,545 --> 00:32:21,948
+Riggs nunca disse nada.
+Todo esse tempo.
+
+635
+00:32:23,340 --> 00:32:24,426
+Sim, bem...
+
+636
+00:32:26,298 --> 00:32:27,586
+ele é um cara legal.
+
+637
+00:32:28,534 --> 00:32:29,602
+É.
+
+638
+00:32:32,730 --> 00:32:34,774
+Lembra-se daquela
+viagem que fizemos
+
+639
+00:32:35,346 --> 00:32:37,485
+algum lugar na California,
+quando deixei...
+
+640
+00:32:37,510 --> 00:32:39,418
+o mapa no banheiro,
+em uma parada?
+
+641
+00:32:39,452 --> 00:32:42,446
+Sim, como poderia esquecer?
+Papai ficou furioso.
+
+642
+00:32:42,581 --> 00:32:44,192
+E ele não quis parar
+
+643
+00:32:44,217 --> 00:32:45,715
+-e pedir informação.
+-Sim.
+
+644
+00:32:46,001 --> 00:32:49,811
+Depois ele e mamãe discutiram por
+horas enquanto reclamávamos...
+
+645
+00:32:50,334 --> 00:32:51,522
+e ele disse
+
+646
+00:32:51,547 --> 00:32:54,207
+"dane-se!" E ele parou.
+
+647
+00:32:54,857 --> 00:32:58,251
+E brincamos na água por
+horas até o sol baixar.
+
+648
+00:32:58,276 --> 00:33:00,608
+Eu nem mesmo me lembro
+onde estamos indo, mas
+
+649
+00:33:00,633 --> 00:33:01,776
+eu só...
+
+650
+00:33:02,785 --> 00:33:04,739
+Eu nunca me esqueci
+daquela praia.
+
+651
+00:33:08,564 --> 00:33:11,665
+Nos meus dias difíceis, poderia
+me perder naquela memória.
+
+652
+00:33:12,819 --> 00:33:15,467
+Fingir que a areia do
+deserto era a praia,
+
+653
+00:33:16,744 --> 00:33:19,044
+que os gritos eram
+
+654
+00:33:19,092 --> 00:33:20,790
+risadas e gaivotas.
+
+655
+00:33:21,126 --> 00:33:23,811
+E eu podia imaginar tudo
+diferente, menos a água.
+
+656
+00:33:24,051 --> 00:33:25,533
+E eu me prometi,
+
+657
+00:33:25,644 --> 00:33:27,422
+que se
+um dia eu saísse de lá...
+
+658
+00:33:29,758 --> 00:33:33,930
+iria viver perto do
+oceano, na Califórnia,
+
+659
+00:33:34,195 --> 00:33:36,914
+e eu vou sentir aquela
+água todos os dias.
+
+660
+00:33:43,269 --> 00:33:46,336
+Eu sempre imaginei nossas
+famílias crescendo juntas, sabe?
+
+661
+00:33:47,978 --> 00:33:52,012
+Porta vizinha, ou algumas
+quadras, perto da mãe e do pai.
+
+662
+00:33:53,696 --> 00:33:55,698
+Acampamentos e churrascos.
+
+663
+00:33:57,829 --> 00:33:59,104
+O papai se foi, Owen.
+
+664
+00:34:01,006 --> 00:34:02,470
+E você não tem filhos.
+
+665
+00:34:04,288 --> 00:34:06,188
+Como esse sonho daria certo?
+
+666
+00:34:08,986 --> 00:34:11,931
+Você é a pessoa mais
+leal que eu já conheci.
+
+667
+00:34:12,924 --> 00:34:14,908
+Mas você é leal a ideias também.
+
+668
+00:34:14,955 --> 00:34:17,356
+Ideias e ideais.
+
+669
+00:34:19,581 --> 00:34:21,557
+Meu plano da praia me faz feliz.
+
+670
+00:34:21,985 --> 00:34:24,316
+Como, "I can feel it
+in my fingers" , feliz.
+
+671
+00:34:24,481 --> 00:34:27,452
+Eu quero isso para você.
+Quero te ver feliz.
+
+672
+00:34:28,448 --> 00:34:29,575
+E isso pode significar que
+
+673
+00:34:29,600 --> 00:34:32,091
+tenha que deixar de lado
+alguns dos seus ideais.
+
+674
+00:34:41,235 --> 00:34:42,293
+Sim.
+
+675
+00:35:09,957 --> 00:35:12,515
+<i>Obrigado.</i>
+
+676
+00:35:18,819 --> 00:35:22,660
+<i>Obrigada.</i>
+
+677
+00:35:50,232 --> 00:35:51,301
+Eu...
+
+678
+00:35:52,191 --> 00:35:55,015
+fui prometida a ser mudada logo.
+
+679
+00:36:01,095 --> 00:36:02,531
+-Oi.
+-Oi.
+
+680
+00:36:04,754 --> 00:36:06,164
+Bem-vinda ao lar.
+
+681
+00:36:13,419 --> 00:36:14,663
+Como foi seu dia?
+
+682
+00:36:15,028 --> 00:36:17,105
+Foi bom.
+
+683
+00:36:17,130 --> 00:36:18,294
+É?
+
+684
+00:36:18,319 --> 00:36:19,613
+Você criou uma
+
+685
+00:36:19,638 --> 00:36:21,025
+linda criança.
+
+686
+00:36:24,136 --> 00:36:25,204
+Obrigada.
+
+687
+00:36:28,792 --> 00:36:29,879
+Onde está o Owen?
+
+688
+00:36:31,080 --> 00:36:32,859
+Eu o deixei no aeroporto.
+
+689
+00:36:33,143 --> 00:36:34,890
+Ele disse que vai
+nos visitar logo.
+
+690
+00:37:03,562 --> 00:37:05,808
+<i>Quando temos que
+depender de um ciclo,</i>
+
+691
+00:37:05,927 --> 00:37:08,109
+<i>só de pensar, quebrá-lo
+é assustador.</i>
+
+692
+00:37:20,159 --> 00:37:21,362
+-Oi.
+-Oi.
+
+693
+00:37:21,387 --> 00:37:23,513
+-Você está de volta?
+-Sim.
+
+694
+00:37:28,290 --> 00:37:30,284
+<i>Até os ciclos que nos machucam.</i>
+
+695
+00:37:35,419 --> 00:37:37,100
+Amelia, me desculpe.
+
+696
+00:37:38,793 --> 00:37:40,272
+Você casou com um tumor.
+
+697
+00:37:41,439 --> 00:37:42,518
+Eu entendo.
+
+698
+00:37:43,407 --> 00:37:44,456
+É só que...
+
+699
+00:37:46,765 --> 00:37:48,718
+parece que nós não
+nos conhecemos.
+
+700
+00:37:50,109 --> 00:37:51,154
+Sim, eu sei.
+
+701
+00:37:52,269 --> 00:37:53,955
+Eu só quero que sejamos felizes.
+
+702
+00:37:54,594 --> 00:37:56,440
+-E nós somos...
+-Não somos felizes.
+
+703
+00:37:59,503 --> 00:38:00,536
+Eu sei.
+
+704
+00:38:04,565 --> 00:38:06,172
+Está tudo bem, Owen.
+
+705
+00:38:09,556 --> 00:38:10,614
+Eu sei.
+
+706
+00:38:34,466 --> 00:38:36,090
+<i>Mas às vezes, </i>
+
+707
+00:38:36,313 --> 00:38:38,057
+<i>quando quebramos o ciclo...</i>
+
+708
+00:38:47,673 --> 00:38:49,165
+<i>achamos algo melhor.</i>
+
+709
+00:38:51,373 --> 00:38:53,248
+<i>Algo inesperado.</i>
+
+710
+00:39:02,096 --> 00:39:04,739
+<i>Algo que nunca ousamos
+pensar que era possível.</i>
+
+711
+00:39:22,096 --> 00:39:23,240
+Pega ela!
+
+712
+00:39:29,063 --> 00:39:30,314
+<i>Achamos liberdade.</i>
+
+713
+00:39:52,773 --> 00:39:54,921
+<i>Achamos paz.</i>

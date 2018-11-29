@@ -1,7 +1,7 @@
 - request:
     url: /login$
     method: POST
-    post: '{\n  "apikey": ".*",\n  "userkey": ".*",\n  "username": ".*"\n}'
+    post: '{\"apikey\": \".*\", \"userkey\": \".*\", \"username\": \".*\"}'
   response:
     headers:
       content-type: application/json
@@ -12,7 +12,7 @@
       }
 
 - request:
-    url: /users/favorites
+    url: /user/favorites
     method: GET
   response:
     headers:
@@ -23,15 +23,14 @@
       {
         "data": {
           "favorites": [
-            "73762",
-            "80379"
+            "73762"
           ]
         }
       }
 
 - request:
     url: /series/73762/episodes/query$
-    method: GET
+    method: get
     query:
       page: 4
   response:
@@ -41,10 +40,48 @@
     file: './responses/episodes.73762.page4.json'
 
 - request:
-    url: /series/73762/episodes$
+    url: /series/73762/episodes/query$
     method: GET
+    query:
+      page: 1
   response:
     headers:
       content-type: application/json
     status: 200
     file: './responses/episodes.73762.json'
+
+- request:
+    url: /series/73762$
+    method: GET
+  response:
+    headers:
+      content-type: application/json
+    status: 200
+    file: './responses/73762.json'
+
+- request:
+    url: /search/b"Grey's%20Anatomy"%20b'S15E08'//
+    method: GET
+  response:
+    status: 200
+    file: './responses/x1337/search.73762.html'
+
+- request:
+    url: /torrent/3385148/Greys-Anatomy-S15E08-HDTV-x264-KILLERS/$
+    method: GET
+  response:
+    status: 200
+    file: './responses/x1337/torrent.73762.html'
+
+- request:
+    url: /
+    method: GET
+    query:
+      action: download
+      hash: 185737ac2be6cd8bef2a4ac1d53b9d299
+      language: pt,en
+  response:
+    headers:
+      content-type: application/json
+    status: 200
+    file: './responses/subdb/73762.pt.txt'

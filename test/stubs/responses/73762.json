@@ -1,0 +1,33 @@
+{
+    "data": {
+        "id": 73762,
+        "seriesName": "Grey's Anatomy",
+        "aliases": [
+            "Greys Anatomy"
+        ],
+        "banner": "graphical/73762-g30.jpg",
+        "seriesId": "",
+        "status": "Continuing",
+        "firstAired": "2005-03-27",
+        "network": "ABC (US)",
+        "networkId": "",
+        "runtime": "45",
+        "genre": [
+            "Drama",
+            "Romance",
+            "Soap"
+        ],
+        "overview": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+        "lastUpdated": 1542906462,
+        "airsDayOfWeek": "Thursday",
+        "airsTime": "8:00 PM",
+        "rating": "TV-14",
+        "imdbId": "tt0413573",
+        "zap2itId": "",
+        "added": "",
+        "addedBy": null,
+        "siteRating": 8.2,
+        "siteRatingCount": 250,
+        "slug": "greys-anatomy"
+    }
+}
