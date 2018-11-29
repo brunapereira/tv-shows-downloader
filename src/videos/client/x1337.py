@@ -1,7 +1,8 @@
 import urllib.request
 from bs4 import BeautifulSoup
+from prettyconf import config
 
-BASE_URL = 'https://1337x.to'
+BASE_URL = config('X1337_BASE_URL')
 
 def fetch_magnet_link(tv_show, version):
     search_string = '{0} {1}'.format(tv_show, version).replace(' ', '%20')

@@ -1,10 +1,11 @@
 import glob
 import os
 import requests
+from prettyconf import config
 
 from models import File
 
-API_URL_BASE = 'http://api.thesubdb.com/'
+API_BASE_URL = config('SUBDB_BASE_URL')
 
 def fetch_subtitle(video_file):
     content = fetch(video_file.get_hash())
@@ -15,7 +16,7 @@ def fetch_subtitle(video_file):
         subtitle_file.write(content)
 
 def fetch(video_hash):
-    url = '{0}?action=download&hash={1}&language=pt,en'.format(API_URL_BASE, video_hash)
+    url = '{0}?action=download&hash={1}&language=pt,en'.format(API_BASE_URL, video_hash)
 
     headers = requests.utils.default_headers()
     headers.update(

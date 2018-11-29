@@ -8,7 +8,7 @@ from repository.client import redis
 
 class TheTvDb(object):
     def __init__(self):
-        self.base_url = 'https://api.thetvdb.com'
+        self.base_url = config('TVDB_BASE_URL')
         self.api_key = config('TVDB_API_KEY')
         self.user_key = config('TVDB_USER_KEY')
         self.username = config('TVDB_USERNAME')
